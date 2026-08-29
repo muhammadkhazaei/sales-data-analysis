@@ -1,0 +1,1501 @@
+transaction_id,date,customer_id,product,category,region,channel,quantity,unit_price,discount,revenue
+T00001,2025-11-24,C0378,Laptop Air 13,Computers,North,Partner,1,965.82,0,965.82
+T00002,2025-10-07,C0120,Laptop Air 13,Computers,North,Partner,2,950.29,0,1900.58
+T00003,2025-04-12,C0302,Smartphone Lite,Phones,East,Online,2,482.26,0.05,916.29
+T00004,2025-03-23,C0391,Smartphone Lite,Phones,East,Online,1,481.95,0,481.95
+T00005,2025-02-17,C0023,USB-C Dock,Accessories,West,Partner,1,160.98,0.1,144.88
+T00006,2025-03-05,C0186,USB-C Dock,Accessories,South,Partner,1,161.45,0,161.45
+T00007,2025-02-05,C0120,Laptop Pro 14,Computers,North,Retail,2,1374.64,0.1,2474.35
+T00008,2025-05-23,C0108,Noise-Cancel Headset,Audio,East,Partner,2,176.21,0,352.42
+T00009,2025-12-16,C0126,Smartphone X,Phones,South,Retail,1,802.27,0.05,762.16
+T00010,2025-07-14,C0351,Mechanical Keyboard,Accessories,East,Online,5,119.81,0.05,569.1
+T00011,2025-04-28,C0291,Laptop Pro 14,Computers,East,Online,3,1231.38,0,3694.14
+T00012,2025-12-02,C0136,Noise-Cancel Headset,Audio,South,Online,1,178.12,0.15,151.4
+T00013,2025-10-15,C0205,Webcam HD,Accessories,East,Online,1,93.25,0.05,88.59
+T00014,2025-03-12,C0079,Webcam HD,Accessories,South,Partner,1,92.86,0.1,83.57
+T00015,2025-08-05,C0271,Tablet 11,Tablets,East,Partner,1,528.71,0,528.71
+T00016,2025-01-06,C0137,Smartphone X,Phones,East,Online,2,802.54,0.05,1524.83
+T00017,2025-05-31,C0369,USB-C Dock,Accessories,East,Partner,1,163.24,0,163.24
+T00018,2025-04-02,C0328,Webcam HD,Accessories,South,Online,3,86.85,0.1,234.49
+T00019,2025-07-11,C0001,27in Monitor,Monitors,East,Retail,2,350.27,0.1,630.49
+T00020,2025-01-10,C0158,Laptop Air 13,Computers,South,Online,4,1038.76,0.1,3739.54
+T00021,2025-05-04,C0036,Tablet 11,Tablets,South,Online,4,498.16,0,1992.64
+T00022,2025-12-04,C0311,Noise-Cancel Headset,Audio,West,Online,4,179.59,0,718.36
+T00023,2025-10-04,C0344,Smartphone Lite,Phones,East,Retail,2,492.95,0.1,887.31
+T00024,2025-09-22,C0302,Noise-Cancel Headset,Audio,South,Partner,1,175.52,0,175.52
+T00025,2025-04-23,C0017,Laptop Pro 14,Computers,East,Online,1,1256.75,0.05,1193.91
+T00026,2025-09-21,C0371,24in Monitor,Monitors,West,Online,1,230.08,0.05,218.58
+T00027,2025-08-31,C0217,USB-C Dock,Accessories,West,Retail,1,157.68,0,157.68
+T00028,2025-01-28,C0373,Smartphone X,Phones,East,Online,2,756.87,0.05,1438.05
+T00029,2025-05-08,C0143,24in Monitor,Monitors,West,Online,1,226.85,0,226.85
+T00030,2025-02-08,C0334,Noise-Cancel Headset,Audio,North,Online,3,170.36,0.1,459.97
+T00031,2025-05-02,C0031,27in Monitor,Monitors,South,Retail,1,364.27,0.05,346.06
+T00032,2025-01-02,C0217,USB-C Dock,Accessories,West,Online,1,158.14,0.1,142.33
+T00033,2025-04-08,C0032,Mechanical Keyboard,Accessories,East,Online,1,122.37,0,122.37
+T00034,2025-01-26,C0030,Tablet 11,Tablets,North,Online,1,500.86,0.15,425.73
+T00035,2025-02-05,C0292,Tablet 11,Tablets,South,Partner,1,493.24,0.1,443.92
+T00036,2025-11-01,C0268,Laptop Pro 14,Computers,East,Retail,2,1312.04,0,2624.08
+T00037,2025-04-15,C0344,Smartphone X,Phones,East,Retail,2,789.01,0,1578.02
+T00038,2025-06-11,C0052,Laptop Air 13,Computers,North,Partner,1,1006.55,0.05,956.22
+T00039,2025-04-20,C0126,Webcam HD,Accessories,East,Retail,1,93.07,0.15,79.11
+T00040,2025-03-22,C0335,Noise-Cancel Headset,Audio,North,Partner,3,181.4,0.1,489.78
+T00041,2025-10-11,C0136,Mechanical Keyboard,Accessories,North,Online,4,124.4,0,497.6
+T00042,2025-10-11,C0105,27in Monitor,Monitors,East,Partner,1,358.11,0.05,340.2
+T00043,2025-09-08,C0217,Mechanical Keyboard,Accessories,East,Online,3,113.18,0.1,305.59
+T00044,2025-01-02,C0380,Wireless Mouse,Accessories,West,Partner,2,47.6,0.05,90.44
+T00045,2025-12-28,C0354,USB-C Dock,Accessories,South,Partner,2,167.49,0,334.98
+T00046,2025-01-19,C0158,Wireless Mouse,Accessories,East,Online,2,46.81,0,93.62
+T00047,2025-07-03,C0287,24in Monitor,Monitors,West,Partner,2,224.98,0.05,427.46
+T00048,2025-03-21,C0212,24in Monitor,Monitors,North,Online,3,237.54,0.2,570.1
+T00049,2025-06-20,C0137,USB-C Dock,Accessories,South,Partner,3,164.93,0.1,445.31
+T00050,2025-02-25,C0236,USB-C Dock,Accessories,East,Retail,3,153.7,0.1,414.99
+T00051,2025-04-27,C0036,24in Monitor,Monitors,East,Retail,1,224.28,0,224.28
+T00052,2025-11-25,C0015,Webcam HD,Accessories,North,Retail,1,89.39,0.2,71.51
+T00053,2025-04-02,C0223,Tablet 11,Tablets,East,Partner,4,475.55,0,1902.2
+T00054,2025-06-10,C0296,USB-C Dock,Accessories,South,Retail,2,156.81,0.05,297.94
+T00055,2025-01-23,C0352,Smartphone Lite,Phones,South,Retail,1,517.35,0.05,491.48
+T00056,2025-08-09,C0340,Laptop Air 13,Computers,North,Partner,4,1013.76,0.15,3446.78
+T00057,2025-06-03,C0152,Webcam HD,Accessories,South,Online,1,87.96,0,87.96
+T00058,2025-08-04,C0316,Smartphone X,Phones,East,Retail,4,837.62,0.05,3182.96
+T00059,2025-10-08,C0311,Laptop Pro 14,Computers,East,Retail,1,1343.54,0,1343.54
+T00060,2025-08-15,C0377,Noise-Cancel Headset,Audio,South,Partner,2,185.31,0.05,352.09
+T00061,2025-02-13,C0385,Mechanical Keyboard,Accessories,South,Partner,1,116.65,0.05,110.82
+T00062,2025-06-08,C0244,24in Monitor,Monitors,North,Retail,3,216.53,0,649.59
+T00063,2025-08-01,C0205,Smartphone X,Phones,South,Online,2,787.88,0.1,1418.18
+T00064,2025-12-02,C0055,Smartphone Lite,Phones,West,Online,1,515.17,0.1,463.65
+T00065,2025-04-01,C0063,Smartphone Lite,Phones,West,Online,1,483.98,0,483.98
+T00066,2025-08-26,C0387,Smartphone X,Phones,West,Partner,2,781.48,0.05,1484.81
+T00067,2025-09-16,C0381,USB-C Dock,Accessories,West,Retail,3,166.58,0.05,474.75
+T00068,2025-05-13,C0249,24in Monitor,Monitors,South,Retail,3,236.63,0,709.89
+T00069,2025-08-14,C0277,Laptop Air 13,Computers,North,Online,2,979.32,0,1958.64
+T00070,2025-03-19,C0213,24in Monitor,Monitors,West,Retail,1,221.14,0,221.14
+T00071,2025-10-05,C0395,Noise-Cancel Headset,Audio,North,Partner,1,177.28,0,177.28
+T00072,2025-07-14,C0215,Noise-Cancel Headset,Audio,South,Retail,1,184.44,0,184.44
+T00073,2025-04-23,C0348,Mechanical Keyboard,Accessories,West,Partner,1,116.66,0,116.66
+T00074,2025-03-26,C0202,Noise-Cancel Headset,Audio,North,Online,3,179.73,0.2,431.35
+T00075,2025-11-26,C0195,USB-C Dock,Accessories,East,Online,1,150.42,0.05,142.9
+T00076,2025-08-21,C0216,Wireless Mouse,Accessories,East,Online,1,47.7,0.1,42.93
+T00077,2025-08-29,C0115,Laptop Pro 14,Computers,North,Partner,2,1369.45,0,2738.9
+T00078,2025-01-21,C0079,Laptop Pro 14,Computers,South,Online,4,1224.24,0,4896.96
+T00079,2025-08-31,C0132,Smartphone X,Phones,East,Online,1,795.65,0.15,676.3
+T00080,2025-11-07,C0084,Tablet 11,Tablets,East,Online,4,515.63,0.1,1856.27
+T00081,2025-10-24,C0193,Laptop Pro 14,Computers,West,Partner,4,1362.6,0.05,5177.88
+T00082,2025-04-12,C0357,Laptop Air 13,Computers,East,Partner,2,968.17,0.1,1742.71
+T00083,2025-11-04,C0273,Laptop Air 13,Computers,West,Partner,2,943.98,0.05,1793.56
+T00084,2025-07-09,C0251,Laptop Air 13,Computers,North,Retail,1,1040.91,0,1040.91
+T00085,2025-07-05,C0091,Smartphone X,Phones,East,Partner,3,765.73,0.05,2182.33
+T00086,2025-10-03,C0166,Noise-Cancel Headset,Audio,South,Online,1,180.99,0.1,162.89
+T00087,2025-05-23,C0195,Noise-Cancel Headset,Audio,East,Online,1,181.37,0.05,172.3
+T00088,2025-09-11,C0175,Wireless Mouse,Accessories,East,Partner,1,50.75,0,50.75
+T00089,2025-12-26,C0124,Mechanical Keyboard,Accessories,West,Retail,2,114.59,0.05,217.72
+T00090,2025-10-12,C0009,24in Monitor,Monitors,North,Retail,2,228.75,0.05,434.62
+T00091,2025-04-24,C0243,USB-C Dock,Accessories,East,Retail,2,160.56,0,321.12
+T00092,2025-10-09,C0119,Wireless Mouse,Accessories,North,Partner,1,47.86,0.05,45.47
+T00093,2025-04-09,C0095,Wireless Mouse,Accessories,South,Online,1,50.54,0.05,48.01
+T00094,2025-09-05,C0145,Mechanical Keyboard,Accessories,North,Online,2,119.35,0.2,190.96
+T00095,2025-06-01,C0065,24in Monitor,Monitors,East,Online,1,234.72,0,234.72
+T00096,2025-01-28,C0386,Webcam HD,Accessories,West,Online,1,90.47,0.15,76.9
+T00097,2025-01-07,C0027,Tablet 11,Tablets,East,Retail,1,489.46,0.05,464.99
+T00098,2025-02-28,C0028,Laptop Air 13,Computers,South,Online,1,1014.52,0,1014.52
+T00099,2025-10-16,C0214,Mechanical Keyboard,Accessories,South,Partner,1,119.83,0,119.83
+T00100,2025-07-14,C0220,Noise-Cancel Headset,Audio,East,Partner,3,180.9,0,542.7
+T00101,2025-11-14,C0107,Laptop Pro 14,Computers,South,Retail,2,1368.77,0.1,2463.79
+T00102,2025-12-05,C0002,Laptop Air 13,Computers,West,Retail,1,948.06,0,948.06
+T00103,2025-12-19,C0145,Tablet 11,Tablets,West,Online,1,486.31,0,486.31
+T00104,2025-12-18,C0339,24in Monitor,Monitors,South,Retail,4,232.44,0.1,836.78
+T00105,2025-02-28,C0073,Webcam HD,Accessories,North,Online,1,86.5,0,86.5
+T00106,2025-03-26,C0225,Mechanical Keyboard,Accessories,North,Retail,2,125.01,0.1,225.02
+T00107,2025-12-19,C0253,Mechanical Keyboard,Accessories,West,Online,2,119.01,0.15,202.32
+T00108,2025-11-03,C0014,Laptop Pro 14,Computers,North,Online,3,1315.17,0.1,3550.96
+T00109,2025-12-12,C0138,Tablet 11,Tablets,North,Online,2,514.85,0,1029.7
+T00110,2025-08-29,C0300,Webcam HD,Accessories,West,Partner,2,85.6,0.15,145.52
+T00111,2025-09-09,C0054,Laptop Air 13,Computers,South,Retail,1,977.55,0,977.55
+T00112,2025-07-30,C0390,Smartphone Lite,Phones,North,Retail,1,493.04,0.05,468.39
+T00113,2025-02-15,C0264,Wireless Mouse,Accessories,North,Partner,1,50.6,0,50.6
+T00114,2025-10-05,C0388,Noise-Cancel Headset,Audio,West,Partner,1,176.03,0,176.03
+T00115,2025-08-15,C0225,Laptop Pro 14,Computers,West,Online,1,1365.67,0.05,1297.39
+T00116,2025-01-15,C0283,Smartphone X,Phones,North,Partner,2,766.25,0,1532.5
+T00117,2025-07-28,C0061,Laptop Air 13,Computers,South,Retail,1,952.66,0.1,857.39
+T00118,2025-05-30,C0242,Webcam HD,Accessories,South,Retail,2,88.81,0,177.62
+T00119,2025-10-10,C0070,27in Monitor,Monitors,North,Retail,1,349.35,0.15,296.95
+T00120,2025-08-01,C0145,Wireless Mouse,Accessories,East,Partner,4,50.88,0.05,193.34
+T00121,2025-10-24,C0177,Smartphone X,Phones,East,Partner,1,802.7,0,802.7
+T00122,2025-10-06,C0358,USB-C Dock,Accessories,South,Partner,1,153.06,0,153.06
+T00123,2025-07-16,C0243,24in Monitor,Monitors,West,Retail,3,224.0,0,672.0
+T00124,2025-12-06,C0258,Smartphone X,Phones,East,Online,5,754.61,0.05,3584.4
+T00125,2025-08-14,C0210,Laptop Air 13,Computers,South,Online,2,1025.67,0.05,1948.77
+T00126,2025-08-29,C0169,Mechanical Keyboard,Accessories,West,Retail,1,121.14,0.05,115.08
+T00127,2025-11-17,C0317,Smartphone Lite,Phones,North,Online,3,501.46,0.05,1429.16
+T00128,2025-11-20,C0223,Smartphone X,Phones,North,Partner,4,822.66,0.2,2632.51
+T00129,2025-12-27,C0024,Laptop Air 13,Computers,East,Online,1,1047.36,0.05,994.99
+T00130,2025-05-31,C0290,Wireless Mouse,Accessories,South,Online,1,49.18,0,49.18
+T00131,2025-03-31,C0255,Laptop Air 13,Computers,South,Online,2,1020.95,0,2041.9
+T00132,2025-08-25,C0239,Smartphone X,Phones,East,Partner,1,751.96,0,751.96
+T00133,2025-10-07,C0154,27in Monitor,Monitors,West,Partner,1,369.42,0.15,314.01
+T00134,2025-05-09,C0248,Noise-Cancel Headset,Audio,North,Online,3,176.52,0,529.56
+T00135,2025-07-15,C0012,Tablet 11,Tablets,West,Retail,1,510.93,0,510.93
+T00136,2025-01-05,C0311,Tablet 11,Tablets,West,Retail,3,527.36,0.1,1423.87
+T00137,2025-04-28,C0129,Tablet 11,Tablets,South,Partner,3,480.45,0,1441.35
+T00138,2025-02-19,C0297,Smartphone X,Phones,East,Partner,2,793.33,0,1586.66
+T00139,2025-03-09,C0103,Laptop Air 13,Computers,South,Partner,3,988.87,0,2966.61
+T00140,2025-07-07,C0247,Webcam HD,Accessories,East,Partner,1,85.42,0,85.42
+T00141,2025-06-23,C0116,Laptop Air 13,Computers,West,Partner,1,1029.47,0,1029.47
+T00142,2025-07-07,C0233,Laptop Air 13,Computers,East,Partner,2,1003.38,0,2006.76
+T00143,2025-12-11,C0056,Mechanical Keyboard,Accessories,South,Retail,2,125.29,0.1,225.52
+T00144,2025-01-13,C0114,Tablet 11,Tablets,North,Partner,3,523.87,0.05,1493.03
+T00145,2025-08-26,C0020,Smartphone Lite,Phones,East,Retail,1,477.43,0,477.43
+T00146,2025-03-01,C0190,Laptop Air 13,Computers,West,Partner,1,985.65,0.05,936.37
+T00147,2025-03-21,C0144,USB-C Dock,Accessories,North,Partner,2,161.21,0.1,290.18
+T00148,2025-07-09,C0051,24in Monitor,Monitors,East,Partner,1,238.77,0.15,202.95
+T00149,2025-11-27,C0233,Wireless Mouse,Accessories,North,Partner,1,51.75,0,51.75
+T00150,2025-04-19,C0171,Smartphone X,Phones,South,Online,2,755.91,0.2,1209.46
+T00151,2025-10-17,C0111,24in Monitor,Monitors,South,Retail,1,220.95,0.1,198.85
+T00152,2025-03-17,C0067,Tablet 11,Tablets,East,Online,1,477.72,0.1,429.95
+T00153,2025-02-26,C0122,Smartphone X,Phones,East,Online,3,785.41,0,2356.23
+T00154,2025-03-31,C0382,Mechanical Keyboard,Accessories,North,Retail,1,119.37,0.1,107.43
+T00155,2025-08-18,C0315,Wireless Mouse,Accessories,North,Partner,1,49.02,0,49.02
+T00156,2025-12-04,C0246,Webcam HD,Accessories,West,Retail,1,83.99,0.05,79.79
+T00157,2025-12-18,C0042,Laptop Air 13,Computers,East,Partner,1,947.87,0.15,805.69
+T00158,2025-03-17,C0365,Laptop Air 13,Computers,East,Retail,1,1009.23,0.05,958.77
+T00159,2025-11-02,C0360,Webcam HD,Accessories,North,Partner,1,88.25,0.05,83.84
+T00160,2025-11-30,C0117,Webcam HD,Accessories,West,Retail,2,88.48,0,176.96
+T00161,2025-08-21,C0341,USB-C Dock,Accessories,East,Retail,1,157.6,0,157.6
+T00162,2025-03-20,C0048,Smartphone X,Phones,West,Online,4,830.81,0,3323.24
+T00163,2025-07-10,C0169,27in Monitor,Monitors,North,Retail,2,351.58,0.05,668.0
+T00164,2025-07-01,C0027,Smartphone X,Phones,East,Partner,4,838.87,0,3355.48
+T00165,2025-06-09,C0247,Wireless Mouse,Accessories,South,Online,1,46.97,0.05,44.62
+T00166,2025-06-29,C0220,Webcam HD,Accessories,North,Partner,1,89.79,0.1,80.81
+T00167,2025-12-03,C0159,Smartphone Lite,Phones,East,Retail,1,511.14,0,511.14
+T00168,2025-01-04,C0073,27in Monitor,Monitors,North,Online,3,344.84,0.05,982.79
+T00169,2025-09-29,C0160,24in Monitor,Monitors,East,Partner,1,219.59,0.05,208.61
+T00170,2025-11-02,C0026,Laptop Air 13,Computers,North,Retail,3,1029.5,0,3088.5
+T00171,2025-08-15,C0111,Smartphone X,Phones,North,Retail,1,790.77,0.05,751.23
+T00172,2025-08-09,C0342,Laptop Air 13,Computers,East,Online,1,997.4,0.05,947.53
+T00173,2025-04-23,C0109,USB-C Dock,Accessories,South,Retail,5,153.36,0,766.8
+T00174,2025-05-29,C0067,Wireless Mouse,Accessories,West,Partner,1,48.59,0.05,46.16
+T00175,2025-12-27,C0037,24in Monitor,Monitors,West,Partner,1,237.41,0.1,213.67
+T00176,2025-01-22,C0295,USB-C Dock,Accessories,West,Partner,1,165.91,0.15,141.02
+T00177,2025-07-27,C0167,Smartphone Lite,Phones,South,Partner,2,493.31,0,986.62
+T00178,2025-08-24,C0125,Smartphone Lite,Phones,West,Partner,3,519.63,0,1558.89
+T00179,2025-07-25,C0114,Webcam HD,Accessories,East,Online,1,91.63,0.1,82.47
+T00180,2025-02-09,C0398,Webcam HD,Accessories,East,Retail,2,85.73,0.05,162.89
+T00181,2025-11-27,C0309,27in Monitor,Monitors,South,Partner,1,336.32,0,336.32
+T00182,2025-02-08,C0289,27in Monitor,Monitors,West,Partner,4,347.49,0.05,1320.46
+T00183,2025-10-17,C0322,Smartphone X,Phones,East,Online,2,833.92,0.05,1584.45
+T00184,2025-08-14,C0303,Laptop Air 13,Computers,North,Retail,1,1034.52,0.05,982.79
+T00185,2025-09-17,C0147,Laptop Air 13,Computers,North,Partner,1,945.88,0.05,898.59
+T00186,2025-02-16,C0379,Tablet 11,Tablets,North,Retail,2,503.81,0,1007.62
+T00187,2025-10-20,C0032,Smartphone X,Phones,West,Online,1,799.13,0.05,759.17
+T00188,2025-06-25,C0363,Smartphone Lite,Phones,West,Retail,1,471.4,0.05,447.83
+T00189,2025-09-26,C0199,Webcam HD,Accessories,West,Retail,2,93.46,0,186.92
+T00190,2025-12-14,C0169,Tablet 11,Tablets,North,Partner,1,489.1,0.05,464.64
+T00191,2025-12-14,C0309,USB-C Dock,Accessories,South,Retail,1,161.99,0.1,145.79
+T00192,2025-02-11,C0336,Tablet 11,Tablets,West,Online,2,487.64,0.15,828.99
+T00193,2025-11-01,C0169,Smartphone Lite,Phones,South,Partner,4,491.62,0,1966.48
+T00194,2025-12-26,C0344,Smartphone Lite,Phones,West,Partner,5,474.66,0.15,2017.31
+T00195,2025-07-05,C0393,Laptop Pro 14,Computers,West,Online,1,1254.45,0,1254.45
+T00196,2025-04-26,C0260,27in Monitor,Monitors,North,Partner,1,361.07,0,361.07
+T00197,2025-06-22,C0355,Tablet 11,Tablets,South,Partner,1,478.78,0,478.78
+T00198,2025-08-13,C0228,Laptop Pro 14,Computers,East,Partner,1,1258.09,0.05,1195.19
+T00199,2025-08-18,C0241,24in Monitor,Monitors,South,Retail,2,237.48,0,474.96
+T00200,2025-12-14,C0196,Tablet 11,Tablets,West,Online,5,485.93,0.05,2308.17
+T00201,2025-04-13,C0191,Tablet 11,Tablets,North,Partner,1,507.45,0,507.45
+T00202,2025-09-22,C0263,Laptop Air 13,Computers,South,Retail,1,971.76,0.1,874.58
+T00203,2025-02-16,C0213,24in Monitor,Monitors,North,Retail,3,240.83,0.15,614.12
+T00204,2025-09-15,C0015,Wireless Mouse,Accessories,East,Online,1,48.26,0.2,38.61
+T00205,2025-11-29,C0242,Wireless Mouse,Accessories,South,Partner,2,47.75,0,95.5
+T00206,2025-08-29,C0111,Noise-Cancel Headset,Audio,South,Partner,2,168.67,0.15,286.74
+T00207,2025-11-08,C0063,Webcam HD,Accessories,North,Online,1,86.2,0.1,77.58
+T00208,2025-08-03,C0256,Smartphone X,Phones,North,Partner,2,761.69,0.05,1447.21
+T00209,2025-09-21,C0315,Tablet 11,Tablets,East,Online,1,494.76,0,494.76
+T00210,2025-10-20,C0185,USB-C Dock,Accessories,North,Partner,1,159.45,0.05,151.48
+T00211,2025-10-06,C0241,Webcam HD,Accessories,North,Partner,2,83.88,0.05,159.37
+T00212,2025-07-18,C0177,Wireless Mouse,Accessories,South,Partner,1,50.7,0,50.7
+T00213,2025-12-03,C0069,Smartphone X,Phones,North,Retail,1,823.61,0.05,782.43
+T00214,2025-10-07,C0238,Wireless Mouse,Accessories,West,Partner,3,50.64,0,151.92
+T00215,2025-04-04,C0151,27in Monitor,Monitors,South,Online,1,347.23,0.1,312.51
+T00216,2025-04-13,C0279,Laptop Pro 14,Computers,West,Retail,1,1283.14,0,1283.14
+T00217,2025-01-19,C0336,Smartphone X,Phones,East,Retail,1,825.93,0,825.93
+T00218,2025-03-05,C0198,Wireless Mouse,Accessories,East,Online,1,48.65,0,48.65
+T00219,2025-09-12,C0043,Smartphone Lite,Phones,West,Online,1,500.15,0.15,425.13
+T00220,2025-08-09,C0053,Tablet 11,Tablets,North,Retail,5,486.65,0,2433.25
+T00221,2025-12-05,C0354,Mechanical Keyboard,Accessories,West,Retail,1,117.94,0.05,112.04
+T00222,2025-08-17,C0223,Laptop Pro 14,Computers,East,Partner,2,1316.9,0.15,2238.73
+T00223,2025-01-30,C0384,Laptop Air 13,Computers,South,Online,2,1000.57,0,2001.14
+T00224,2025-03-15,C0121,Tablet 11,Tablets,East,Retail,2,476.62,0,953.24
+T00225,2025-07-16,C0190,Tablet 11,Tablets,East,Retail,1,496.0,0,496.0
+T00226,2025-02-09,C0143,Tablet 11,Tablets,South,Online,1,487.89,0,487.89
+T00227,2025-01-14,C0061,Smartphone Lite,Phones,East,Retail,1,523.76,0.05,497.57
+T00228,2025-12-27,C0252,Noise-Cancel Headset,Audio,South,Online,1,183.17,0.05,174.01
+T00229,2025-03-11,C0045,Laptop Air 13,Computers,East,Partner,1,992.42,0.15,843.56
+T00230,2025-06-27,C0081,Smartphone Lite,Phones,South,Retail,1,522.43,0.05,496.31
+T00231,2025-09-18,C0253,24in Monitor,Monitors,North,Retail,1,219.08,0,219.08
+T00232,2025-10-11,C0314,Tablet 11,Tablets,North,Online,1,502.09,0.1,451.88
+T00233,2025-06-08,C0394,USB-C Dock,Accessories,West,Partner,5,159.49,0.1,717.71
+T00234,2025-02-07,C0349,27in Monitor,Monitors,East,Online,4,346.9,0.05,1318.22
+T00235,2025-10-10,C0258,Smartphone X,Phones,North,Online,2,763.43,0.1,1374.17
+T00236,2025-09-23,C0116,27in Monitor,Monitors,East,Partner,1,367.21,0,367.21
+T00237,2025-05-26,C0065,Laptop Air 13,Computers,East,Partner,1,1005.09,0.05,954.84
+T00238,2025-10-01,C0079,Laptop Air 13,Computers,South,Partner,1,1051.94,0,1051.94
+T00239,2025-11-16,C0022,Smartphone Lite,Phones,North,Online,3,524.38,0,1573.14
+T00240,2025-01-24,C0293,Smartphone X,Phones,West,Partner,2,771.27,0,1542.54
+T00241,2025-11-24,C0155,Laptop Pro 14,Computers,West,Online,1,1266.21,0.05,1202.9
+T00242,2025-12-17,C0226,USB-C Dock,Accessories,West,Retail,1,150.6,0,150.6
+T00243,2025-08-26,C0164,24in Monitor,Monitors,East,Retail,1,238.93,0,238.93
+T00244,2025-03-08,C0063,Wireless Mouse,Accessories,East,Retail,1,47.48,0,47.48
+T00245,2025-05-07,C0316,27in Monitor,Monitors,West,Online,1,344.15,0,344.15
+T00246,2025-03-23,C0082,Wireless Mouse,Accessories,West,Partner,4,47.18,0.1,169.85
+T00247,2025-08-28,C0202,Noise-Cancel Headset,Audio,West,Online,3,170.19,0.05,485.04
+T00248,2025-04-21,C0335,Tablet 11,Tablets,West,Retail,1,498.69,0,498.69
+T00249,2025-10-02,C0373,Laptop Pro 14,Computers,East,Retail,3,1358.62,0,4075.86
+T00250,2025-07-07,C0284,Laptop Pro 14,Computers,East,Online,1,1251.4,0.05,1188.83
+T00251,2025-07-17,C0320,Webcam HD,Accessories,North,Online,1,92.47,0.05,87.85
+T00252,2025-02-19,C0188,USB-C Dock,Accessories,South,Online,1,160.1,0.2,128.08
+T00253,2025-11-05,C0366,Webcam HD,Accessories,East,Retail,1,84.08,0,84.08
+T00254,2025-09-23,C0314,Noise-Cancel Headset,Audio,East,Online,1,171.26,0.15,145.57
+T00255,2025-07-21,C0261,Tablet 11,Tablets,West,Partner,2,489.2,0,978.4
+T00256,2025-10-16,C0057,Mechanical Keyboard,Accessories,West,Partner,1,116.59,0,116.59
+T00257,2025-06-07,C0136,Smartphone Lite,Phones,South,Partner,3,504.8,0.05,1438.68
+T00258,2025-01-27,C0397,Tablet 11,Tablets,West,Online,1,512.24,0.05,486.63
+T00259,2025-12-15,C0010,24in Monitor,Monitors,West,Retail,1,218.28,0.15,185.54
+T00260,2025-08-03,C0314,27in Monitor,Monitors,West,Partner,1,349.08,0,349.08
+T00261,2025-02-01,C0340,Smartphone Lite,Phones,West,Partner,1,488.52,0,488.52
+T00262,2025-07-12,C0280,Wireless Mouse,Accessories,East,Partner,4,49.19,0.05,186.92
+T00263,2025-12-15,C0127,Smartphone X,Phones,East,Partner,3,797.48,0,2392.44
+T00264,2025-06-02,C0361,24in Monitor,Monitors,South,Partner,4,236.45,0.2,756.64
+T00265,2025-12-27,C0370,Noise-Cancel Headset,Audio,East,Retail,1,188.32,0,188.32
+T00266,2025-03-04,C0177,Tablet 11,Tablets,South,Retail,2,527.75,0,1055.5
+T00267,2025-01-22,C0336,Mechanical Keyboard,Accessories,East,Partner,4,125.05,0,500.2
+T00268,2025-09-03,C0357,24in Monitor,Monitors,East,Online,1,240.9,0.05,228.85
+T00269,2025-02-25,C0272,Tablet 11,Tablets,South,Partner,2,472.1,0,944.2
+T00270,2025-04-30,C0349,Laptop Pro 14,Computers,South,Online,1,1294.7,0,1294.7
+T00271,2025-10-09,C0245,27in Monitor,Monitors,South,Retail,1,364.85,0.15,310.12
+T00272,2025-06-14,C0294,Mechanical Keyboard,Accessories,South,Partner,2,113.14,0.15,192.34
+T00273,2025-01-20,C0019,27in Monitor,Monitors,West,Retail,1,367.17,0.1,330.45
+T00274,2025-04-06,C0005,Smartphone Lite,Phones,East,Partner,4,521.56,0.15,1773.3
+T00275,2025-11-05,C0329,Laptop Air 13,Computers,West,Online,4,993.53,0,3974.12
+T00276,2025-09-16,C0375,Noise-Cancel Headset,Audio,West,Partner,1,175.36,0.1,157.82
+T00277,2025-05-12,C0291,Smartphone Lite,Phones,South,Online,1,516.41,0.1,464.77
+T00278,2025-11-09,C0045,Smartphone X,Phones,West,Partner,3,800.47,0.1,2161.27
+T00279,2025-02-18,C0004,27in Monitor,Monitors,East,Retail,5,367.25,0.05,1744.44
+T00280,2025-05-01,C0371,Noise-Cancel Headset,Audio,North,Retail,2,174.75,0.15,297.07
+T00281,2025-12-01,C0158,Wireless Mouse,Accessories,South,Retail,2,46.76,0,93.52
+T00282,2025-12-18,C0354,Webcam HD,Accessories,North,Partner,4,91.88,0.15,312.39
+T00283,2025-06-01,C0079,Wireless Mouse,Accessories,West,Partner,2,46.85,0,93.7
+T00284,2025-11-07,C0276,Wireless Mouse,Accessories,South,Online,1,48.83,0.05,46.39
+T00285,2025-12-15,C0361,Tablet 11,Tablets,East,Online,3,495.81,0,1487.43
+T00286,2025-10-16,C0294,Laptop Air 13,Computers,South,Online,1,999.66,0.05,949.68
+T00287,2025-06-17,C0251,Webcam HD,Accessories,North,Partner,1,91.32,0.05,86.75
+T00288,2025-08-17,C0030,Laptop Pro 14,Computers,West,Partner,1,1292.27,0.05,1227.66
+T00289,2025-06-07,C0112,Smartphone Lite,Phones,North,Online,1,469.24,0,469.24
+T00290,2025-08-05,C0036,Wireless Mouse,Accessories,West,Online,2,46.41,0.05,88.18
+T00291,2025-05-27,C0374,USB-C Dock,Accessories,West,Retail,1,161.7,0,161.7
+T00292,2025-07-15,C0350,Noise-Cancel Headset,Audio,South,Partner,3,176.33,0.15,449.64
+T00293,2025-06-28,C0373,Laptop Air 13,Computers,South,Online,1,1002.46,0.05,952.34
+T00294,2025-01-12,C0195,Mechanical Keyboard,Accessories,South,Online,1,117.92,0.1,106.13
+T00295,2025-08-24,C0392,Wireless Mouse,Accessories,North,Online,1,51.21,0,51.21
+T00296,2025-12-05,C0124,USB-C Dock,Accessories,South,Online,2,166.42,0.15,282.91
+T00297,2025-02-21,C0025,Tablet 11,Tablets,South,Partner,1,511.17,0.05,485.61
+T00298,2025-01-23,C0398,USB-C Dock,Accessories,North,Online,1,163.85,0.05,155.66
+T00299,2025-09-15,C0296,Mechanical Keyboard,Accessories,East,Online,1,120.09,0.15,102.08
+T00300,2025-06-04,C0141,27in Monitor,Monitors,North,Partner,5,345.38,0.05,1640.56
+T00301,2025-10-30,C0254,Smartphone Lite,Phones,North,Retail,3,494.64,0.05,1409.72
+T00302,2025-11-26,C0210,Smartphone X,Phones,South,Retail,1,817.82,0.05,776.93
+T00303,2025-07-12,C0154,27in Monitor,Monitors,South,Retail,2,363.63,0.05,690.9
+T00304,2025-01-30,C0199,Webcam HD,Accessories,South,Retail,1,89.32,0,89.32
+T00305,2025-04-15,C0048,Wireless Mouse,Accessories,South,Online,2,51.04,0.15,86.77
+T00306,2025-05-18,C0097,USB-C Dock,Accessories,South,Retail,2,166.13,0.05,315.65
+T00307,2025-04-17,C0098,Wireless Mouse,Accessories,North,Partner,1,47.31,0.15,40.21
+T00308,2025-09-03,C0123,24in Monitor,Monitors,East,Retail,2,226.16,0.1,407.09
+T00309,2025-07-14,C0263,Noise-Cancel Headset,Audio,West,Retail,2,173.88,0,347.76
+T00310,2025-02-20,C0190,Smartphone Lite,Phones,East,Retail,1,523.81,0.1,471.43
+T00311,2025-01-24,C0284,Tablet 11,Tablets,West,Retail,3,470.03,0.1,1269.08
+T00312,2025-03-20,C0256,24in Monitor,Monitors,East,Retail,1,238.16,0,238.16
+T00313,2025-09-08,C0181,Smartphone Lite,Phones,South,Online,2,479.13,0.05,910.35
+T00314,2025-10-07,C0031,Noise-Cancel Headset,Audio,North,Online,1,189.53,0.15,161.1
+T00315,2025-12-09,C0119,Laptop Pro 14,Computers,North,Partner,2,1352.4,0,2704.8
+T00316,2025-03-19,C0327,Laptop Pro 14,Computers,West,Partner,1,1230.48,0.05,1168.96
+T00317,2025-09-07,C0272,Laptop Pro 14,Computers,East,Partner,1,1222.91,0.05,1161.76
+T00318,2025-05-27,C0092,Laptop Pro 14,Computers,North,Online,1,1288.18,0.05,1223.77
+T00319,2025-09-26,C0182,27in Monitor,Monitors,East,Retail,1,338.63,0.05,321.7
+T00320,2025-02-10,C0357,Wireless Mouse,Accessories,South,Retail,4,47.49,0.05,180.46
+T00321,2025-12-17,C0048,Laptop Air 13,Computers,West,Retail,2,1030.12,0.1,1854.22
+T00322,2025-07-13,C0043,Webcam HD,Accessories,West,Retail,1,91.17,0.05,86.61
+T00323,2025-11-27,C0271,Wireless Mouse,Accessories,North,Online,2,46.62,0.1,83.92
+T00324,2025-04-19,C0039,Smartphone Lite,Phones,East,Partner,3,471.85,0.05,1344.77
+T00325,2025-10-16,C0107,Smartphone X,Phones,South,Partner,1,781.21,0.15,664.03
+T00326,2025-07-23,C0200,Laptop Air 13,Computers,East,Retail,1,1007.0,0.05,956.65
+T00327,2025-03-13,C0028,Smartphone Lite,Phones,North,Retail,2,527.4,0.05,1002.06
+T00328,2025-04-29,C0204,Laptop Air 13,Computers,East,Online,1,1053.53,0.1,948.18
+T00329,2025-11-21,C0284,Mechanical Keyboard,Accessories,West,Retail,2,115.12,0.05,218.73
+T00330,2025-04-06,C0152,Smartphone X,Phones,South,Partner,2,825.1,0,1650.2
+T00331,2025-02-07,C0079,Laptop Air 13,Computers,West,Retail,1,1033.03,0,1033.03
+T00332,2025-07-04,C0390,Laptop Air 13,Computers,East,Online,1,992.37,0.15,843.51
+T00333,2025-03-09,C0209,Laptop Air 13,Computers,North,Online,1,1005.56,0,1005.56
+T00334,2025-02-15,C0198,Wireless Mouse,Accessories,North,Retail,2,50.67,0.05,96.27
+T00335,2025-07-31,C0125,USB-C Dock,Accessories,South,Partner,2,160.14,0.1,288.25
+T00336,2025-07-14,C0033,27in Monitor,Monitors,South,Retail,1,348.71,0,348.71
+T00337,2025-05-22,C0127,USB-C Dock,Accessories,West,Partner,1,156.35,0.1,140.72
+T00338,2025-11-12,C0203,24in Monitor,Monitors,East,Partner,1,215.45,0,215.45
+T00339,2025-07-14,C0334,Wireless Mouse,Accessories,South,Retail,1,50.9,0,50.9
+T00340,2025-06-14,C0204,Tablet 11,Tablets,East,Retail,4,487.87,0,1951.48
+T00341,2025-12-22,C0193,Smartphone X,Phones,East,Retail,1,774.3,0.05,735.58
+T00342,2025-07-06,C0093,Laptop Air 13,Computers,North,Partner,4,1058.61,0,4234.44
+T00343,2025-08-25,C0036,Smartphone Lite,Phones,West,Partner,1,518.84,0.1,466.96
+T00344,2025-09-13,C0367,27in Monitor,Monitors,West,Retail,2,355.64,0,711.28
+T00345,2025-02-07,C0260,Noise-Cancel Headset,Audio,West,Partner,5,176.87,0.05,840.13
+T00346,2025-01-19,C0044,Wireless Mouse,Accessories,North,Online,2,49.55,0.1,89.19
+T00347,2025-12-03,C0331,Smartphone X,Phones,West,Retail,1,755.31,0.05,717.54
+T00348,2025-08-09,C0266,Laptop Air 13,Computers,South,Retail,1,1000.28,0,1000.28
+T00349,2025-07-11,C0078,USB-C Dock,Accessories,East,Online,1,162.63,0.05,154.5
+T00350,2025-09-05,C0374,Laptop Air 13,Computers,South,Retail,1,949.35,0.15,806.95
+T00351,2025-06-09,C0244,Wireless Mouse,Accessories,North,Retail,1,48.9,0,48.9
+T00352,2025-12-23,C0059,Noise-Cancel Headset,Audio,North,Retail,1,185.66,0,185.66
+T00353,2025-11-28,C0125,Laptop Air 13,Computers,South,Partner,2,1057.01,0,2114.02
+T00354,2025-03-23,C0208,Wireless Mouse,Accessories,South,Online,2,47.42,0.15,80.61
+T00355,2025-11-24,C0102,Smartphone X,Phones,West,Partner,1,809.94,0,809.94
+T00356,2025-08-08,C0361,USB-C Dock,Accessories,North,Partner,1,154.77,0,154.77
+T00357,2025-02-22,C0135,Webcam HD,Accessories,West,Partner,1,88.55,0,88.55
+T00358,2025-11-24,C0179,Wireless Mouse,Accessories,East,Retail,2,49.51,0.05,94.07
+T00359,2025-11-13,C0315,27in Monitor,Monitors,North,Partner,3,340.52,0.1,919.4
+T00360,2025-03-10,C0356,Wireless Mouse,Accessories,South,Partner,1,47.14,0,47.14
+T00361,2025-07-18,C0250,USB-C Dock,Accessories,South,Partner,2,157.53,0.05,299.31
+T00362,2025-03-27,C0318,Noise-Cancel Headset,Audio,North,Retail,1,186.35,0,186.35
+T00363,2025-01-05,C0259,Noise-Cancel Headset,Audio,West,Retail,1,188.96,0.1,170.06
+T00364,2025-12-17,C0043,Noise-Cancel Headset,Audio,North,Online,1,178.76,0.1,160.88
+T00365,2025-05-30,C0235,Laptop Pro 14,Computers,West,Partner,1,1247.28,0.05,1184.92
+T00366,2025-09-19,C0188,Laptop Air 13,Computers,North,Partner,2,1004.17,0,2008.34
+T00367,2025-08-14,C0335,Webcam HD,Accessories,South,Retail,1,91.52,0,91.52
+T00368,2025-01-17,C0061,Noise-Cancel Headset,Audio,South,Online,1,170.13,0.1,153.12
+T00369,2025-10-29,C0085,Smartphone Lite,Phones,South,Online,1,506.95,0.1,456.25
+T00370,2025-04-16,C0087,Laptop Pro 14,Computers,East,Partner,2,1314.1,0.05,2496.79
+T00371,2025-05-30,C0348,Mechanical Keyboard,Accessories,North,Online,2,119.21,0.15,202.66
+T00372,2025-07-30,C0068,Laptop Pro 14,Computers,South,Online,5,1240.84,0.1,5583.78
+T00373,2025-12-31,C0251,Wireless Mouse,Accessories,South,Partner,3,50.04,0.1,135.11
+T00374,2025-11-20,C0394,Mechanical Keyboard,Accessories,North,Retail,2,112.94,0,225.88
+T00375,2025-09-21,C0250,Smartphone Lite,Phones,East,Partner,1,491.16,0.15,417.49
+T00376,2025-01-02,C0358,Smartphone Lite,Phones,East,Online,1,507.07,0.2,405.66
+T00377,2025-10-01,C0138,USB-C Dock,Accessories,East,Retail,1,153.5,0,153.5
+T00378,2025-06-22,C0176,Webcam HD,Accessories,North,Online,2,88.84,0.05,168.8
+T00379,2025-02-20,C0081,Smartphone X,Phones,West,Retail,2,762.97,0.05,1449.64
+T00380,2025-01-01,C0333,USB-C Dock,Accessories,East,Online,1,151.98,0.05,144.38
+T00381,2025-05-21,C0333,Laptop Air 13,Computers,South,Online,2,983.64,0,1967.28
+T00382,2025-07-22,C0336,Smartphone X,Phones,North,Partner,1,773.51,0.05,734.83
+T00383,2025-02-18,C0266,Laptop Pro 14,Computers,West,Online,1,1313.6,0,1313.6
+T00384,2025-01-05,C0356,Smartphone Lite,Phones,South,Retail,1,520.58,0,520.58
+T00385,2025-02-06,C0161,24in Monitor,Monitors,East,Retail,1,218.07,0.1,196.26
+T00386,2025-03-12,C0347,USB-C Dock,Accessories,South,Online,2,152.0,0.1,273.6
+T00387,2025-09-29,C0370,Tablet 11,Tablets,South,Partner,1,495.41,0.05,470.64
+T00388,2025-03-19,C0052,USB-C Dock,Accessories,South,Online,2,153.61,0,307.22
+T00389,2025-10-29,C0072,Smartphone Lite,Phones,South,Retail,1,487.89,0.15,414.71
+T00390,2025-11-27,C0146,Laptop Air 13,Computers,North,Partner,1,1025.52,0.05,974.24
+T00391,2025-06-04,C0152,24in Monitor,Monitors,North,Online,1,235.81,0.05,224.02
+T00392,2025-09-11,C0271,USB-C Dock,Accessories,North,Retail,1,160.79,0.05,152.75
+T00393,2025-06-12,C0280,27in Monitor,Monitors,South,Retail,1,345.69,0.1,311.12
+T00394,2025-02-07,C0031,Laptop Pro 14,Computers,West,Partner,2,1254.69,0,2509.38
+T00395,2025-05-27,C0206,Smartphone X,Phones,North,Partner,2,791.67,0.1,1425.01
+T00396,2025-10-02,C0262,Webcam HD,Accessories,South,Online,2,86.97,0,173.94
+T00397,2025-10-02,C0349,Wireless Mouse,Accessories,North,Retail,1,50.97,0.05,48.42
+T00398,2025-12-24,C0045,USB-C Dock,Accessories,West,Online,2,150.56,0.1,271.01
+T00399,2025-08-21,C0380,Tablet 11,Tablets,South,Online,2,513.47,0,1026.94
+T00400,2025-01-07,C0178,Smartphone Lite,Phones,East,Online,1,498.79,0,498.79
+T00401,2025-07-10,C0061,27in Monitor,Monitors,North,Retail,2,358.76,0.1,645.77
+T00402,2025-08-08,C0322,Mechanical Keyboard,Accessories,North,Retail,2,125.78,0,251.56
+T00403,2025-08-22,C0189,Webcam HD,Accessories,South,Retail,1,89.71,0.05,85.22
+T00404,2025-02-22,C0002,Tablet 11,Tablets,North,Online,2,513.42,0,1026.84
+T00405,2025-05-06,C0019,Laptop Pro 14,Computers,West,Online,1,1244.46,0,1244.46
+T00406,2025-06-14,C0040,24in Monitor,Monitors,East,Online,1,222.71,0.1,200.44
+T00407,2025-09-15,C0024,Smartphone X,Phones,West,Online,3,828.18,0,2484.54
+T00408,2025-08-27,C0234,Mechanical Keyboard,Accessories,North,Retail,2,113.09,0,226.18
+T00409,2025-04-13,C0238,Mechanical Keyboard,Accessories,East,Partner,2,120.75,0,241.5
+T00410,2025-09-10,C0078,24in Monitor,Monitors,North,Retail,2,237.13,0.05,450.55
+T00411,2025-01-13,C0005,24in Monitor,Monitors,East,Online,2,234.32,0.05,445.21
+T00412,2025-12-03,C0272,USB-C Dock,Accessories,South,Retail,3,151.44,0.1,408.89
+T00413,2025-09-09,C0023,Laptop Pro 14,Computers,South,Partner,4,1264.68,0,5058.72
+T00414,2025-07-31,C0298,Smartphone Lite,Phones,North,Partner,3,513.84,0.05,1464.44
+T00415,2025-03-10,C0223,Smartphone X,Phones,South,Online,3,805.5,0,2416.5
+T00416,2025-05-30,C0377,Mechanical Keyboard,Accessories,East,Retail,3,117.47,0.15,299.55
+T00417,2025-08-20,C0395,Mechanical Keyboard,Accessories,North,Online,1,113.8,0.15,96.73
+T00418,2025-02-24,C0184,27in Monitor,Monitors,South,Retail,1,333.12,0,333.12
+T00419,2025-06-07,C0352,Noise-Cancel Headset,Audio,East,Partner,1,171.65,0,171.65
+T00420,2025-12-23,C0047,Tablet 11,Tablets,South,Retail,1,488.69,0.1,439.82
+T00421,2025-07-22,C0090,Webcam HD,Accessories,North,Retail,1,92.42,0,92.42
+T00422,2025-08-20,C0072,Webcam HD,Accessories,North,Online,2,88.59,0,177.18
+T00423,2025-02-01,C0323,24in Monitor,Monitors,North,Partner,1,225.49,0.1,202.94
+T00424,2025-10-28,C0102,Mechanical Keyboard,Accessories,West,Online,3,126.1,0,378.3
+T00425,2025-02-17,C0294,Wireless Mouse,Accessories,West,Partner,1,46.36,0.15,39.41
+T00426,2025-07-22,C0110,Noise-Cancel Headset,Audio,South,Retail,1,171.97,0.05,163.37
+T00427,2025-05-24,C0126,Noise-Cancel Headset,Audio,East,Retail,3,181.56,0,544.68
+T00428,2025-07-30,C0215,Webcam HD,Accessories,South,Partner,1,87.75,0,87.75
+T00429,2025-09-27,C0196,24in Monitor,Monitors,East,Retail,2,237.1,0.1,426.78
+T00430,2025-10-06,C0139,Noise-Cancel Headset,Audio,South,Online,1,175.17,0.05,166.41
+T00431,2025-06-13,C0030,Tablet 11,Tablets,West,Partner,1,515.68,0.15,438.33
+T00432,2025-07-03,C0337,Tablet 11,Tablets,South,Retail,5,475.06,0.2,1900.24
+T00433,2025-10-01,C0199,Smartphone Lite,Phones,East,Online,1,482.2,0.2,385.76
+T00434,2025-04-01,C0303,24in Monitor,Monitors,North,Partner,2,234.43,0.1,421.97
+T00435,2025-12-25,C0097,Wireless Mouse,Accessories,West,Partner,4,49.37,0.05,187.61
+T00436,2025-06-08,C0113,27in Monitor,Monitors,North,Partner,1,337.8,0,337.8
+T00437,2025-09-02,C0175,Laptop Pro 14,Computers,South,Retail,1,1346.77,0.05,1279.43
+T00438,2025-01-31,C0057,Laptop Pro 14,Computers,East,Online,1,1243.14,0.1,1118.83
+T00439,2025-07-11,C0155,Smartphone Lite,Phones,East,Online,4,475.11,0,1900.44
+T00440,2025-03-22,C0333,Smartphone Lite,Phones,East,Online,4,526.58,0.1,1895.69
+T00441,2025-12-29,C0115,Webcam HD,Accessories,South,Retail,2,92.07,0.15,156.52
+T00442,2025-06-07,C0360,Smartphone Lite,Phones,West,Partner,2,512.7,0,1025.4
+T00443,2025-01-17,C0114,27in Monitor,Monitors,North,Retail,2,368.58,0.15,626.59
+T00444,2025-03-14,C0086,Wireless Mouse,Accessories,North,Partner,2,51.84,0,103.68
+T00445,2025-12-10,C0108,Smartphone X,Phones,South,Partner,2,752.15,0,1504.3
+T00446,2025-02-04,C0198,Wireless Mouse,Accessories,West,Partner,1,46.07,0,46.07
+T00447,2025-08-03,C0280,27in Monitor,Monitors,West,Online,3,343.92,0.05,980.17
+T00448,2025-09-03,C0038,Tablet 11,Tablets,North,Retail,2,478.8,0.05,909.72
+T00449,2025-01-11,C0193,Wireless Mouse,Accessories,South,Partner,1,48.07,0,48.07
+T00450,2025-02-08,C0315,Webcam HD,Accessories,West,Partner,4,87.27,0.2,279.26
+T00451,2025-01-16,C0081,USB-C Dock,Accessories,North,Online,4,166.44,0,665.76
+T00452,2025-06-19,C0374,24in Monitor,Monitors,East,Partner,4,230.49,0,921.96
+T00453,2025-05-25,C0252,Mechanical Keyboard,Accessories,South,Online,1,120.02,0,120.02
+T00454,2025-07-04,C0308,Laptop Pro 14,Computers,West,Online,1,1324.26,0,1324.26
+T00455,2025-02-19,C0243,Laptop Pro 14,Computers,North,Retail,1,1373.36,0.05,1304.69
+T00456,2025-07-23,C0279,Noise-Cancel Headset,Audio,West,Online,1,170.22,0.05,161.71
+T00457,2025-07-09,C0239,USB-C Dock,Accessories,East,Online,1,154.48,0,154.48
+T00458,2025-05-18,C0044,Tablet 11,Tablets,East,Partner,1,509.03,0.1,458.13
+T00459,2025-07-31,C0268,Tablet 11,Tablets,West,Partner,1,492.24,0,492.24
+T00460,2025-12-18,C0203,Noise-Cancel Headset,Audio,North,Partner,2,174.68,0,349.36
+T00461,2025-10-20,C0062,Webcam HD,Accessories,West,Online,3,90.28,0.05,257.3
+T00462,2025-03-27,C0350,24in Monitor,Monitors,West,Online,3,226.89,0,680.67
+T00463,2025-11-18,C0035,27in Monitor,Monitors,North,Retail,3,366.2,0,1098.6
+T00464,2025-10-12,C0007,USB-C Dock,Accessories,West,Online,2,159.38,0.1,286.88
+T00465,2025-08-01,C0052,27in Monitor,Monitors,North,Partner,1,359.82,0.05,341.83
+T00466,2025-02-21,C0136,Mechanical Keyboard,Accessories,West,Partner,3,124.4,0.15,317.22
+T00467,2025-09-06,C0074,Tablet 11,Tablets,West,Online,2,485.55,0,971.1
+T00468,2025-07-22,C0138,Wireless Mouse,Accessories,East,Online,2,48.85,0,97.7
+T00469,2025-06-22,C0351,Mechanical Keyboard,Accessories,North,Online,1,124.12,0.1,111.71
+T00470,2025-03-10,C0138,Mechanical Keyboard,Accessories,West,Partner,4,123.65,0,494.6
+T00471,2025-11-27,C0380,Laptop Air 13,Computers,West,Partner,1,1037.84,0,1037.84
+T00472,2025-07-11,C0260,Laptop Pro 14,Computers,West,Online,1,1269.56,0,1269.56
+T00473,2025-09-26,C0030,Tablet 11,Tablets,South,Online,1,518.94,0,518.94
+T00474,2025-08-22,C0238,Laptop Pro 14,Computers,West,Partner,3,1263.77,0.1,3412.18
+T00475,2025-03-05,C0091,Smartphone X,Phones,West,Partner,1,808.02,0,808.02
+T00476,2025-10-10,C0353,Wireless Mouse,Accessories,North,Retail,1,47.58,0.1,42.82
+T00477,2025-01-15,C0110,USB-C Dock,Accessories,South,Partner,1,164.34,0.1,147.91
+T00478,2025-04-26,C0400,Smartphone X,Phones,North,Retail,1,800.27,0.05,760.26
+T00479,2025-03-09,C0312,Smartphone X,Phones,East,Partner,1,772.52,0.1,695.27
+T00480,2025-12-30,C0236,Smartphone X,Phones,East,Online,1,832.71,0.15,707.8
+T00481,2025-08-27,C0053,Mechanical Keyboard,Accessories,North,Partner,2,117.53,0.1,211.55
+T00482,2025-12-06,C0351,Wireless Mouse,Accessories,North,Retail,2,47.72,0.05,90.67
+T00483,2025-02-02,C0134,Wireless Mouse,Accessories,East,Online,5,51.13,0.05,242.87
+T00484,2025-03-18,C0308,Webcam HD,Accessories,West,Partner,2,92.26,0.15,156.84
+T00485,2025-06-13,C0152,Smartphone X,Phones,East,Retail,1,798.75,0,798.75
+T00486,2025-07-27,C0098,USB-C Dock,Accessories,East,Partner,2,168.44,0.05,320.04
+T00487,2025-04-24,C0344,Smartphone X,Phones,East,Partner,2,837.98,0.1,1508.36
+T00488,2025-06-03,C0050,27in Monitor,Monitors,West,Online,3,335.65,0.1,906.25
+T00489,2025-05-13,C0349,Smartphone Lite,Phones,East,Partner,3,480.02,0.1,1296.05
+T00490,2025-02-15,C0170,24in Monitor,Monitors,East,Retail,1,223.7,0.1,201.33
+T00491,2025-10-27,C0325,Mechanical Keyboard,Accessories,North,Retail,1,112.63,0,112.63
+T00492,2025-04-10,C0212,Webcam HD,Accessories,North,Online,1,89.32,0.05,84.85
+T00493,2025-03-12,C0235,24in Monitor,Monitors,South,Retail,1,239.8,0.2,191.84
+T00494,2025-04-03,C0325,Laptop Air 13,Computers,North,Online,1,960.26,0.05,912.25
+T00495,2025-08-20,C0082,Mechanical Keyboard,Accessories,West,Online,1,120.09,0.1,108.08
+T00496,2025-03-08,C0245,Tablet 11,Tablets,West,Online,1,494.75,0,494.75
+T00497,2025-01-20,C0165,Webcam HD,Accessories,South,Online,1,83.81,0,83.81
+T00498,2025-12-13,C0177,Laptop Pro 14,Computers,East,Online,2,1329.17,0,2658.34
+T00499,2025-02-22,C0024,USB-C Dock,Accessories,East,Retail,1,150.71,0,150.71
+T00500,2025-08-22,C0352,Smartphone Lite,Phones,South,Retail,2,495.03,0.05,940.56
+T00501,2025-09-08,C0207,Wireless Mouse,Accessories,North,Online,2,51.39,0,102.78
+T00502,2025-04-25,C0259,Smartphone Lite,Phones,South,Online,5,470.37,0,2351.85
+T00503,2025-07-07,C0131,Smartphone Lite,Phones,North,Partner,2,521.55,0,1043.1
+T00504,2025-01-25,C0060,Smartphone X,Phones,West,Retail,1,755.68,0.1,680.11
+T00505,2025-07-14,C0356,Laptop Air 13,Computers,North,Retail,2,957.42,0.05,1819.1
+T00506,2025-08-04,C0359,Smartphone X,Phones,South,Retail,1,810.77,0.05,770.23
+T00507,2025-02-23,C0055,Webcam HD,Accessories,West,Online,2,84.88,0,169.76
+T00508,2025-11-08,C0184,24in Monitor,Monitors,West,Retail,2,242.0,0.1,435.6
+T00509,2025-03-24,C0247,Laptop Pro 14,Computers,East,Online,2,1328.34,0.15,2258.18
+T00510,2025-01-02,C0343,Laptop Pro 14,Computers,West,Online,2,1351.26,0.15,2297.14
+T00511,2025-02-16,C0330,Webcam HD,Accessories,South,Retail,1,93.32,0.1,83.99
+T00512,2025-06-01,C0021,Mechanical Keyboard,Accessories,East,Retail,1,114.35,0,114.35
+T00513,2025-12-13,C0024,Wireless Mouse,Accessories,North,Online,1,51.07,0,51.07
+T00514,2025-12-06,C0319,Smartphone X,Phones,East,Partner,1,793.03,0,793.03
+T00515,2025-02-17,C0234,Wireless Mouse,Accessories,East,Retail,3,48.42,0,145.26
+T00516,2025-12-20,C0058,Noise-Cancel Headset,Audio,South,Partner,2,185.38,0.05,352.22
+T00517,2025-01-31,C0292,27in Monitor,Monitors,West,Online,1,348.27,0.15,296.03
+T00518,2025-11-09,C0373,USB-C Dock,Accessories,South,Retail,2,165.92,0.05,315.25
+T00519,2025-09-07,C0336,Laptop Air 13,Computers,East,Online,3,946.65,0,2839.95
+T00520,2025-12-27,C0115,Smartphone X,Phones,East,Partner,2,820.46,0.1,1476.83
+T00521,2025-09-25,C0128,Smartphone Lite,Phones,West,Retail,2,508.68,0,1017.36
+T00522,2025-12-06,C0314,Smartphone X,Phones,North,Online,2,830.3,0,1660.6
+T00523,2025-11-26,C0085,27in Monitor,Monitors,North,Retail,1,348.83,0.05,331.39
+T00524,2025-06-14,C0282,24in Monitor,Monitors,West,Retail,1,229.19,0,229.19
+T00525,2025-05-01,C0256,Laptop Air 13,Computers,West,Retail,1,992.78,0.1,893.5
+T00526,2025-03-02,C0019,Noise-Cancel Headset,Audio,North,Online,2,176.93,0,353.86
+T00527,2025-11-06,C0336,Tablet 11,Tablets,West,Retail,2,502.73,0.15,854.64
+T00528,2025-07-06,C0393,Laptop Pro 14,Computers,West,Partner,3,1272.81,0.1,3436.59
+T00529,2025-12-03,C0114,Wireless Mouse,Accessories,North,Retail,2,50.52,0,101.04
+T00530,2025-07-01,C0360,Smartphone X,Phones,North,Online,4,801.11,0,3204.44
+T00531,2025-03-26,C0055,Noise-Cancel Headset,Audio,East,Partner,1,183.76,0.1,165.38
+T00532,2025-04-11,C0098,24in Monitor,Monitors,East,Online,1,221.18,0.1,199.06
+T00533,2025-08-01,C0396,Laptop Pro 14,Computers,West,Retail,4,1312.84,0.1,4726.22
+T00534,2025-12-04,C0272,Tablet 11,Tablets,North,Partner,4,498.93,0,1995.72
+T00535,2025-08-10,C0091,Tablet 11,Tablets,South,Partner,1,524.22,0.05,498.01
+T00536,2025-03-07,C0259,Laptop Air 13,Computers,West,Retail,1,1044.88,0.05,992.64
+T00537,2025-11-08,C0151,Smartphone Lite,Phones,West,Online,2,526.76,0,1053.52
+T00538,2025-03-12,C0360,USB-C Dock,Accessories,East,Partner,2,159.23,0.15,270.69
+T00539,2025-10-11,C0352,Smartphone X,Phones,East,Partner,1,819.56,0,819.56
+T00540,2025-03-09,C0356,Smartphone Lite,Phones,East,Partner,2,499.23,0.15,848.69
+T00541,2025-03-01,C0364,Wireless Mouse,Accessories,West,Partner,2,51.6,0.05,98.04
+T00542,2025-10-01,C0055,Mechanical Keyboard,Accessories,North,Retail,3,112.04,0,336.12
+T00543,2025-03-16,C0083,Laptop Pro 14,Computers,East,Partner,2,1338.0,0,2676.0
+T00544,2025-05-09,C0386,27in Monitor,Monitors,North,Retail,3,340.42,0.05,970.2
+T00545,2025-08-20,C0115,Laptop Air 13,Computers,West,Online,2,1006.42,0.05,1912.2
+T00546,2025-09-19,C0199,Smartphone Lite,Phones,West,Partner,1,524.54,0.05,498.31
+T00547,2025-06-10,C0400,Webcam HD,Accessories,West,Online,1,85.83,0.1,77.25
+T00548,2025-11-21,C0379,Smartphone Lite,Phones,South,Partner,2,504.29,0,1008.58
+T00549,2025-04-10,C0089,Mechanical Keyboard,Accessories,North,Retail,1,112.92,0.2,90.34
+T00550,2025-01-21,C0131,USB-C Dock,Accessories,North,Retail,1,152.53,0,152.53
+T00551,2025-08-27,C0306,Smartphone Lite,Phones,North,Partner,4,524.67,0,2098.68
+T00552,2025-11-12,C0038,Smartphone X,Phones,East,Partner,1,803.81,0.1,723.43
+T00553,2025-04-23,C0279,27in Monitor,Monitors,West,Online,2,334.73,0.1,602.51
+T00554,2025-06-28,C0151,24in Monitor,Monitors,South,Partner,3,224.36,0.05,639.43
+T00555,2025-09-29,C0005,Noise-Cancel Headset,Audio,North,Partner,5,189.33,0.1,851.99
+T00556,2025-06-27,C0125,Noise-Cancel Headset,Audio,North,Partner,1,187.99,0.05,178.59
+T00557,2025-06-14,C0277,USB-C Dock,Accessories,East,Online,3,156.82,0.15,399.89
+T00558,2025-09-22,C0152,Wireless Mouse,Accessories,South,Retail,1,48.92,0.05,46.47
+T00559,2025-09-21,C0276,Laptop Air 13,Computers,North,Partner,4,1053.7,0,4214.8
+T00560,2025-02-03,C0218,24in Monitor,Monitors,North,Online,2,239.03,0.1,430.25
+T00561,2025-10-03,C0037,Smartphone Lite,Phones,South,Online,3,495.12,0.1,1336.82
+T00562,2025-08-24,C0129,Smartphone Lite,Phones,North,Partner,1,472.31,0,472.31
+T00563,2025-04-27,C0162,Mechanical Keyboard,Accessories,North,Retail,1,117.64,0.05,111.76
+T00564,2025-12-11,C0388,Laptop Air 13,Computers,North,Partner,2,1013.19,0.05,1925.06
+T00565,2025-02-07,C0155,Wireless Mouse,Accessories,North,Retail,4,50.69,0,202.76
+T00566,2025-08-13,C0274,USB-C Dock,Accessories,South,Online,1,158.5,0.05,150.57
+T00567,2025-07-20,C0374,Webcam HD,Accessories,East,Online,1,86.84,0.05,82.5
+T00568,2025-10-11,C0202,Webcam HD,Accessories,North,Retail,1,89.78,0,89.78
+T00569,2025-04-18,C0331,Smartphone Lite,Phones,South,Online,2,481.74,0.1,867.13
+T00570,2025-04-05,C0344,24in Monitor,Monitors,North,Partner,2,218.41,0,436.82
+T00571,2025-08-25,C0051,Smartphone X,Phones,South,Partner,2,757.52,0,1515.04
+T00572,2025-10-25,C0121,Noise-Cancel Headset,Audio,North,Retail,4,182.68,0,730.72
+T00573,2025-11-14,C0316,Laptop Air 13,Computers,East,Partner,3,993.08,0,2979.24
+T00574,2025-10-27,C0220,27in Monitor,Monitors,South,Online,2,341.31,0,682.62
+T00575,2025-06-10,C0142,24in Monitor,Monitors,East,Online,2,232.87,0.1,419.17
+T00576,2025-12-14,C0397,Smartphone Lite,Phones,East,Retail,1,495.73,0.05,470.94
+T00577,2025-10-10,C0072,Laptop Air 13,Computers,South,Retail,1,1039.97,0.05,987.97
+T00578,2025-11-17,C0324,Laptop Air 13,Computers,North,Partner,2,1040.91,0.15,1769.55
+T00579,2025-10-24,C0134,USB-C Dock,Accessories,West,Partner,2,150.16,0,300.32
+T00580,2025-03-18,C0149,Wireless Mouse,Accessories,South,Retail,1,49.53,0.15,42.1
+T00581,2025-09-14,C0123,Webcam HD,Accessories,South,Partner,1,83.77,0,83.77
+T00582,2025-03-13,C0075,Noise-Cancel Headset,Audio,West,Retail,1,180.41,0.05,171.39
+T00583,2025-01-21,C0120,24in Monitor,Monitors,North,Partner,2,222.52,0,445.04
+T00584,2025-04-16,C0233,Webcam HD,Accessories,North,Online,3,88.68,0,266.04
+T00585,2025-11-29,C0141,Wireless Mouse,Accessories,East,Partner,1,49.79,0.15,42.32
+T00586,2025-10-06,C0335,Tablet 11,Tablets,North,Partner,1,490.93,0.05,466.38
+T00587,2025-05-09,C0177,USB-C Dock,Accessories,West,Retail,4,157.2,0,628.8
+T00588,2025-11-06,C0040,Laptop Pro 14,Computers,East,Online,1,1246.87,0,1246.87
+T00589,2025-03-18,C0339,27in Monitor,Monitors,South,Retail,1,362.27,0.05,344.16
+T00590,2025-06-19,C0303,Smartphone Lite,Phones,South,Partner,1,497.74,0.05,472.85
+T00591,2025-07-30,C0069,Laptop Pro 14,Computers,North,Partner,1,1313.4,0,1313.4
+T00592,2025-03-17,C0208,Laptop Pro 14,Computers,North,Partner,1,1301.59,0.15,1106.35
+T00593,2025-12-05,C0242,Mechanical Keyboard,Accessories,West,Online,4,120.52,0,482.08
+T00594,2025-04-23,C0094,USB-C Dock,Accessories,East,Online,2,165.11,0.1,297.2
+T00595,2025-12-18,C0194,Wireless Mouse,Accessories,West,Online,4,46.46,0.05,176.55
+T00596,2025-02-25,C0215,Laptop Pro 14,Computers,South,Partner,1,1299.68,0.1,1169.71
+T00597,2025-02-19,C0273,27in Monitor,Monitors,North,Online,1,329.69,0.05,313.21
+T00598,2025-09-04,C0397,Smartphone X,Phones,West,Partner,1,830.4,0.05,788.88
+T00599,2025-08-04,C0247,Wireless Mouse,Accessories,West,Retail,3,48.58,0.05,138.45
+T00600,2025-10-29,C0218,Smartphone Lite,Phones,South,Retail,3,503.56,0.1,1359.61
+T00601,2025-09-02,C0279,24in Monitor,Monitors,West,Retail,3,231.7,0,695.1
+T00602,2025-04-07,C0061,Laptop Pro 14,Computers,North,Retail,2,1311.16,0.1,2360.09
+T00603,2025-12-02,C0080,24in Monitor,Monitors,West,Partner,2,225.22,0,450.44
+T00604,2025-10-27,C0314,Mechanical Keyboard,Accessories,East,Partner,1,119.92,0.05,113.92
+T00605,2025-07-23,C0190,24in Monitor,Monitors,West,Retail,1,228.52,0.1,205.67
+T00606,2025-06-07,C0338,Tablet 11,Tablets,North,Partner,1,513.12,0.1,461.81
+T00607,2025-04-28,C0261,Noise-Cancel Headset,Audio,West,Retail,2,170.41,0.15,289.7
+T00608,2025-10-09,C0326,Tablet 11,Tablets,North,Online,2,478.68,0.1,861.62
+T00609,2025-03-16,C0114,Noise-Cancel Headset,Audio,East,Online,4,169.64,0,678.56
+T00610,2025-11-08,C0336,Laptop Pro 14,Computers,East,Partner,2,1283.51,0.15,2181.97
+T00611,2025-11-02,C0225,Laptop Pro 14,Computers,North,Online,4,1320.87,0.1,4755.13
+T00612,2025-12-03,C0265,Webcam HD,Accessories,South,Partner,1,90.06,0,90.06
+T00613,2025-03-28,C0081,Smartphone X,Phones,North,Retail,1,751.09,0,751.09
+T00614,2025-07-24,C0008,Wireless Mouse,Accessories,North,Online,2,47.24,0,94.48
+T00615,2025-10-09,C0178,Mechanical Keyboard,Accessories,East,Online,2,120.18,0.05,228.34
+T00616,2025-11-07,C0090,24in Monitor,Monitors,West,Partner,1,215.39,0,215.39
+T00617,2025-02-24,C0263,Webcam HD,Accessories,East,Partner,1,93.77,0,93.77
+T00618,2025-10-22,C0395,Mechanical Keyboard,Accessories,South,Retail,2,119.9,0.15,203.83
+T00619,2025-08-23,C0060,Smartphone X,Phones,East,Online,1,753.68,0.05,716.0
+T00620,2025-07-15,C0162,Smartphone X,Phones,West,Retail,2,818.29,0,1636.58
+T00621,2025-09-22,C0048,Webcam HD,Accessories,West,Partner,1,86.31,0.1,77.68
+T00622,2025-06-25,C0112,Laptop Air 13,Computers,East,Online,2,976.69,0,1953.38
+T00623,2025-12-16,C0136,24in Monitor,Monitors,South,Online,1,235.47,0,235.47
+T00624,2025-04-14,C0062,24in Monitor,Monitors,North,Partner,3,236.67,0,710.01
+T00625,2025-12-06,C0022,Noise-Cancel Headset,Audio,West,Retail,2,179.89,0.1,323.8
+T00626,2025-11-14,C0141,Wireless Mouse,Accessories,West,Online,1,51.33,0.2,41.06
+T00627,2025-09-19,C0270,Mechanical Keyboard,Accessories,West,Retail,1,113.69,0.1,102.32
+T00628,2025-10-04,C0090,Laptop Pro 14,Computers,West,Online,1,1328.05,0,1328.05
+T00629,2025-12-24,C0108,Webcam HD,Accessories,West,Partner,1,83.79,0.05,79.6
+T00630,2025-02-21,C0135,Wireless Mouse,Accessories,South,Retail,1,47.16,0.1,42.44
+T00631,2025-08-30,C0215,Tablet 11,Tablets,East,Retail,1,494.45,0,494.45
+T00632,2025-07-25,C0352,Mechanical Keyboard,Accessories,South,Online,1,125.84,0.05,119.55
+T00633,2025-05-19,C0379,24in Monitor,Monitors,South,Retail,2,220.65,0.1,397.17
+T00634,2025-01-05,C0323,27in Monitor,Monitors,East,Retail,1,365.47,0,365.47
+T00635,2025-06-03,C0354,Mechanical Keyboard,Accessories,South,Online,2,117.55,0.05,223.34
+T00636,2025-04-21,C0172,Mechanical Keyboard,Accessories,East,Retail,1,118.28,0.05,112.37
+T00637,2025-07-04,C0211,Webcam HD,Accessories,North,Retail,2,87.34,0.1,157.21
+T00638,2025-12-14,C0090,Tablet 11,Tablets,East,Retail,1,507.93,0.05,482.53
+T00639,2025-06-16,C0041,Smartphone X,Phones,West,Partner,1,793.91,0.1,714.52
+T00640,2025-05-27,C0173,Noise-Cancel Headset,Audio,West,Partner,2,171.86,0,343.72
+T00641,2025-11-10,C0176,Tablet 11,Tablets,South,Retail,1,473.8,0.15,402.73
+T00642,2025-06-12,C0139,Smartphone X,Phones,West,Retail,1,812.87,0,812.87
+T00643,2025-10-28,C0012,Webcam HD,Accessories,South,Partner,4,85.62,0,342.48
+T00644,2025-05-01,C0108,Smartphone X,Phones,South,Retail,1,822.95,0.1,740.66
+T00645,2025-02-22,C0014,Laptop Air 13,Computers,West,Partner,1,1004.81,0.1,904.33
+T00646,2025-02-12,C0200,Laptop Air 13,Computers,East,Online,1,1017.56,0,1017.56
+T00647,2025-05-07,C0088,Smartphone Lite,Phones,North,Online,1,476.92,0.05,453.07
+T00648,2025-12-06,C0277,Wireless Mouse,Accessories,East,Partner,3,48.86,0,146.58
+T00649,2025-08-16,C0306,27in Monitor,Monitors,West,Partner,4,335.47,0.05,1274.79
+T00650,2025-11-22,C0178,Tablet 11,Tablets,West,Partner,1,501.02,0.05,475.97
+T00651,2025-04-27,C0156,Laptop Air 13,Computers,North,Online,1,970.21,0,970.21
+T00652,2025-09-25,C0252,27in Monitor,Monitors,West,Retail,1,328.41,0.05,311.99
+T00653,2025-01-05,C0281,USB-C Dock,Accessories,East,Online,2,164.66,0.05,312.85
+T00654,2025-07-30,C0331,Webcam HD,Accessories,West,Retail,1,91.3,0,91.3
+T00655,2025-04-23,C0314,Mechanical Keyboard,Accessories,East,Retail,1,119.24,0.05,113.28
+T00656,2025-11-29,C0036,Smartphone Lite,Phones,South,Online,2,480.32,0,960.64
+T00657,2025-05-29,C0319,Laptop Air 13,Computers,West,Online,2,971.68,0.05,1846.19
+T00658,2025-06-14,C0053,Laptop Pro 14,Computers,East,Retail,1,1224.51,0.15,1040.83
+T00659,2025-03-06,C0008,Smartphone Lite,Phones,West,Online,1,474.46,0,474.46
+T00660,2025-06-25,C0238,USB-C Dock,Accessories,North,Retail,1,168.5,0.1,151.65
+T00661,2025-02-11,C0241,27in Monitor,Monitors,South,Online,1,331.05,0.1,297.94
+T00662,2025-05-09,C0128,USB-C Dock,Accessories,West,Retail,3,164.12,0,492.36
+T00663,2025-05-07,C0049,Smartphone Lite,Phones,South,Retail,5,513.09,0,2565.45
+T00664,2025-07-19,C0373,Smartphone X,Phones,North,Partner,4,766.27,0.15,2605.32
+T00665,2025-10-09,C0185,Webcam HD,Accessories,North,Partner,1,86.85,0.05,82.51
+T00666,2025-04-22,C0142,Laptop Air 13,Computers,North,Retail,1,940.87,0,940.87
+T00667,2025-05-05,C0353,Laptop Pro 14,Computers,South,Retail,4,1328.73,0.05,5049.17
+T00668,2025-02-15,C0389,24in Monitor,Monitors,North,Online,1,232.26,0,232.26
+T00669,2025-07-02,C0250,Smartphone X,Phones,South,Retail,1,761.36,0.05,723.29
+T00670,2025-10-13,C0099,Smartphone X,Phones,North,Partner,2,793.12,0.1,1427.62
+T00671,2025-07-13,C0362,Wireless Mouse,Accessories,West,Partner,2,46.29,0,92.58
+T00672,2025-05-31,C0179,Webcam HD,Accessories,East,Partner,2,85.65,0,171.3
+T00673,2025-08-28,C0083,Mechanical Keyboard,Accessories,North,Partner,3,124.15,0.05,353.83
+T00674,2025-03-21,C0001,Noise-Cancel Headset,Audio,West,Partner,1,176.15,0,176.15
+T00675,2025-04-05,C0165,Laptop Pro 14,Computers,North,Partner,2,1317.74,0,2635.48
+T00676,2025-10-03,C0079,USB-C Dock,Accessories,East,Retail,1,164.07,0.05,155.87
+T00677,2025-07-29,C0023,Smartphone X,Phones,South,Online,1,814.23,0,814.23
+T00678,2025-01-17,C0329,24in Monitor,Monitors,West,Partner,1,216.13,0,216.13
+T00679,2025-09-08,C0114,Webcam HD,Accessories,North,Online,2,84.18,0.05,159.94
+T00680,2025-04-17,C0328,Smartphone X,Phones,North,Retail,1,758.73,0.15,644.92
+T00681,2025-10-13,C0363,Smartphone Lite,Phones,North,Partner,4,491.16,0,1964.64
+T00682,2025-05-17,C0111,Webcam HD,Accessories,North,Online,1,86.91,0,86.91
+T00683,2025-04-29,C0292,Webcam HD,Accessories,South,Partner,1,90.68,0,90.68
+T00684,2025-10-13,C0346,USB-C Dock,Accessories,West,Partner,2,160.46,0.1,288.83
+T00685,2025-12-07,C0206,USB-C Dock,Accessories,East,Partner,3,152.9,0,458.7
+T00686,2025-03-22,C0162,Webcam HD,Accessories,East,Retail,5,87.42,0,437.1
+T00687,2025-07-31,C0289,Smartphone X,Phones,South,Retail,1,809.39,0.1,728.45
+T00688,2025-10-09,C0204,Smartphone Lite,Phones,North,Partner,1,495.86,0.15,421.48
+T00689,2025-01-18,C0155,Mechanical Keyboard,Accessories,North,Retail,2,126.05,0.05,239.49
+T00690,2025-04-24,C0354,24in Monitor,Monitors,East,Partner,3,237.85,0,713.55
+T00691,2025-09-19,C0236,Webcam HD,Accessories,East,Online,2,84.67,0.05,160.87
+T00692,2025-03-12,C0154,Mechanical Keyboard,Accessories,North,Partner,1,115.19,0.05,109.43
+T00693,2025-07-24,C0248,Tablet 11,Tablets,South,Retail,3,512.39,0.1,1383.45
+T00694,2025-12-20,C0154,Smartphone Lite,Phones,North,Partner,2,504.7,0.15,857.99
+T00695,2025-10-23,C0179,USB-C Dock,Accessories,West,Retail,1,164.17,0,164.17
+T00696,2025-03-03,C0325,24in Monitor,Monitors,West,Online,2,240.78,0.1,433.4
+T00697,2025-06-06,C0258,Webcam HD,Accessories,South,Online,1,85.26,0.05,81.0
+T00698,2025-01-26,C0305,Smartphone X,Phones,North,Online,2,793.79,0,1587.58
+T00699,2025-08-10,C0244,Mechanical Keyboard,Accessories,North,Partner,2,116.66,0,233.32
+T00700,2025-07-24,C0067,Mechanical Keyboard,Accessories,South,Retail,1,122.91,0.05,116.76
+T00701,2025-10-14,C0316,24in Monitor,Monitors,South,Online,1,220.65,0.05,209.62
+T00702,2025-02-06,C0046,Mechanical Keyboard,Accessories,North,Partner,2,125.06,0,250.12
+T00703,2025-07-31,C0336,USB-C Dock,Accessories,North,Retail,1,156.03,0,156.03
+T00704,2025-03-28,C0075,Wireless Mouse,Accessories,West,Online,2,48.66,0.2,77.86
+T00705,2025-04-30,C0044,24in Monitor,Monitors,North,Partner,2,235.28,0,470.56
+T00706,2025-01-28,C0148,24in Monitor,Monitors,North,Retail,4,239.13,0.15,813.04
+T00707,2025-12-22,C0379,Laptop Air 13,Computers,South,Online,1,978.85,0.05,929.91
+T00708,2025-10-07,C0073,Webcam HD,Accessories,North,Retail,2,90.31,0.05,171.59
+T00709,2025-10-26,C0103,Smartphone X,Phones,East,Online,2,756.82,0,1513.64
+T00710,2025-08-27,C0340,Smartphone X,Phones,East,Online,4,814.38,0,3257.52
+T00711,2025-01-10,C0195,Mechanical Keyboard,Accessories,North,Retail,3,115.16,0.05,328.21
+T00712,2025-09-06,C0235,Tablet 11,Tablets,North,Online,2,499.04,0,998.08
+T00713,2025-05-07,C0010,Webcam HD,Accessories,East,Partner,1,91.61,0.05,87.03
+T00714,2025-06-30,C0257,Wireless Mouse,Accessories,East,Online,2,51.81,0,103.62
+T00715,2025-11-17,C0016,Mechanical Keyboard,Accessories,East,Online,3,123.5,0.15,314.93
+T00716,2025-03-19,C0196,Wireless Mouse,Accessories,South,Retail,3,46.58,0.05,132.75
+T00717,2025-05-04,C0169,Tablet 11,Tablets,West,Partner,1,523.53,0.2,418.82
+T00718,2025-03-09,C0104,24in Monitor,Monitors,South,Retail,2,234.06,0.05,444.71
+T00719,2025-12-19,C0395,Smartphone Lite,Phones,South,Partner,3,494.81,0.15,1261.77
+T00720,2025-10-17,C0061,27in Monitor,Monitors,South,Retail,1,367.79,0.05,349.4
+T00721,2025-03-16,C0211,Smartphone Lite,Phones,East,Retail,1,527.32,0,527.32
+T00722,2025-11-23,C0095,Smartphone Lite,Phones,North,Partner,1,475.45,0.1,427.9
+T00723,2025-11-12,C0119,Mechanical Keyboard,Accessories,North,Retail,2,120.38,0.05,228.72
+T00724,2025-02-10,C0241,Smartphone Lite,Phones,East,Online,2,519.73,0,1039.46
+T00725,2025-07-18,C0210,Noise-Cancel Headset,Audio,North,Retail,1,173.12,0,173.12
+T00726,2025-07-31,C0034,24in Monitor,Monitors,South,Retail,2,236.08,0.2,377.73
+T00727,2025-11-12,C0219,Noise-Cancel Headset,Audio,West,Online,2,187.33,0.1,337.19
+T00728,2025-11-08,C0381,Smartphone Lite,Phones,North,Partner,3,492.66,0.1,1330.18
+T00729,2025-02-25,C0126,Noise-Cancel Headset,Audio,West,Partner,1,187.11,0.1,168.4
+T00730,2025-01-21,C0098,Webcam HD,Accessories,East,Retail,1,93.94,0.1,84.55
+T00731,2025-07-23,C0151,Mechanical Keyboard,Accessories,North,Partner,2,114.24,0,228.48
+T00732,2025-09-22,C0257,27in Monitor,Monitors,North,Online,1,331.85,0.05,315.26
+T00733,2025-10-27,C0013,Smartphone Lite,Phones,South,Retail,2,488.43,0,976.86
+T00734,2025-10-30,C0166,Smartphone Lite,Phones,South,Partner,3,474.46,0.15,1209.87
+T00735,2025-03-05,C0269,Laptop Air 13,Computers,West,Partner,1,982.57,0,982.57
+T00736,2025-09-19,C0394,Tablet 11,Tablets,South,Retail,4,491.85,0,1967.4
+T00737,2025-10-17,C0394,Smartphone X,Phones,North,Retail,3,764.92,0,2294.76
+T00738,2025-06-07,C0093,Mechanical Keyboard,Accessories,North,Online,2,115.98,0.15,197.17
+T00739,2025-04-14,C0256,Laptop Pro 14,Computers,North,Partner,2,1292.55,0,2585.1
+T00740,2025-09-10,C0227,24in Monitor,Monitors,North,Partner,1,227.73,0.05,216.34
+T00741,2025-11-04,C0286,Laptop Pro 14,Computers,South,Online,1,1317.67,0.05,1251.79
+T00742,2025-04-05,C0017,27in Monitor,Monitors,East,Retail,1,334.15,0,334.15
+T00743,2025-02-14,C0146,Laptop Pro 14,Computers,South,Retail,1,1246.21,0.2,996.97
+T00744,2025-10-24,C0189,Wireless Mouse,Accessories,West,Online,4,47.82,0,191.28
+T00745,2025-08-07,C0141,Webcam HD,Accessories,East,Partner,1,84.96,0.05,80.71
+T00746,2025-07-31,C0293,Webcam HD,Accessories,North,Retail,1,84.28,0,84.28
+T00747,2025-12-19,C0312,Tablet 11,Tablets,East,Retail,4,486.26,0.2,1556.03
+T00748,2025-09-27,C0289,Tablet 11,Tablets,West,Partner,5,476.83,0,2384.15
+T00749,2025-11-20,C0363,Noise-Cancel Headset,Audio,East,Online,1,181.35,0,181.35
+T00750,2025-01-01,C0107,Laptop Air 13,Computers,West,Retail,1,953.2,0.05,905.54
+T00751,2025-01-24,C0328,Wireless Mouse,Accessories,South,Partner,1,47.31,0.1,42.58
+T00752,2025-05-25,C0166,Mechanical Keyboard,Accessories,North,Online,2,119.1,0,238.2
+T00753,2025-12-18,C0015,Wireless Mouse,Accessories,South,Online,1,49.68,0.1,44.71
+T00754,2025-06-19,C0019,Wireless Mouse,Accessories,South,Retail,4,48.85,0.05,185.63
+T00755,2025-03-21,C0237,Smartphone X,Phones,West,Partner,1,836.96,0.1,753.26
+T00756,2025-01-29,C0275,Webcam HD,Accessories,North,Online,1,87.03,0.1,78.33
+T00757,2025-10-23,C0034,Smartphone X,Phones,South,Retail,1,827.36,0.15,703.26
+T00758,2025-01-16,C0293,Wireless Mouse,Accessories,West,Online,5,51.01,0.05,242.3
+T00759,2025-11-01,C0162,Laptop Air 13,Computers,North,Retail,3,1023.61,0.1,2763.75
+T00760,2025-07-31,C0155,Laptop Air 13,Computers,South,Partner,1,993.23,0,993.23
+T00761,2025-06-04,C0048,27in Monitor,Monitors,West,Partner,1,360.63,0.1,324.57
+T00762,2025-01-13,C0248,Noise-Cancel Headset,Audio,East,Retail,3,175.57,0,526.71
+T00763,2025-03-15,C0068,Laptop Air 13,Computers,South,Partner,3,1020.18,0.15,2601.46
+T00764,2025-01-19,C0160,Noise-Cancel Headset,Audio,North,Partner,1,170.75,0.1,153.68
+T00765,2025-11-01,C0393,Laptop Air 13,Computers,East,Online,1,951.42,0.15,808.71
+T00766,2025-10-23,C0147,Mechanical Keyboard,Accessories,East,Partner,2,114.72,0,229.44
+T00767,2025-06-13,C0059,Noise-Cancel Headset,Audio,North,Partner,2,171.64,0,343.28
+T00768,2025-10-14,C0139,Webcam HD,Accessories,South,Partner,1,89.53,0.05,85.05
+T00769,2025-05-26,C0174,Tablet 11,Tablets,West,Online,1,505.78,0,505.78
+T00770,2025-03-08,C0028,Laptop Pro 14,Computers,North,Retail,1,1237.57,0.05,1175.69
+T00771,2025-07-20,C0354,27in Monitor,Monitors,West,Partner,2,354.42,0.15,602.51
+T00772,2025-07-02,C0274,Mechanical Keyboard,Accessories,North,Retail,1,122.69,0,122.69
+T00773,2025-10-18,C0050,27in Monitor,Monitors,West,Retail,1,357.32,0.1,321.59
+T00774,2025-12-17,C0115,Smartphone X,Phones,South,Partner,2,773.27,0.05,1469.21
+T00775,2025-05-13,C0167,Wireless Mouse,Accessories,West,Retail,1,49.97,0.05,47.47
+T00776,2025-01-16,C0088,Laptop Air 13,Computers,East,Retail,1,994.35,0,994.35
+T00777,2025-11-06,C0055,Tablet 11,Tablets,East,Partner,1,518.02,0,518.02
+T00778,2025-11-29,C0212,Laptop Air 13,Computers,South,Partner,2,987.11,0.05,1875.51
+T00779,2025-05-05,C0107,Webcam HD,Accessories,West,Retail,1,84.37,0.05,80.15
+T00780,2025-10-18,C0040,Wireless Mouse,Accessories,West,Online,2,49.96,0,99.92
+T00781,2025-10-31,C0091,Tablet 11,Tablets,East,Retail,1,518.28,0.05,492.37
+T00782,2025-02-05,C0195,Tablet 11,Tablets,East,Retail,1,515.25,0.1,463.73
+T00783,2025-11-27,C0298,Smartphone X,Phones,North,Online,1,764.38,0,764.38
+T00784,2025-12-05,C0229,27in Monitor,Monitors,South,Online,1,353.84,0,353.84
+T00785,2025-12-15,C0223,Wireless Mouse,Accessories,East,Online,1,50.06,0.1,45.05
+T00786,2025-10-26,C0151,Laptop Pro 14,Computers,North,Retail,2,1353.19,0.05,2571.06
+T00787,2025-10-09,C0057,Laptop Pro 14,Computers,East,Online,1,1373.62,0.05,1304.94
+T00788,2025-05-01,C0196,USB-C Dock,Accessories,West,Retail,2,155.53,0,311.06
+T00789,2025-08-11,C0285,Webcam HD,Accessories,West,Retail,1,85.15,0,85.15
+T00790,2025-08-02,C0006,27in Monitor,Monitors,North,Partner,1,333.32,0.1,299.99
+T00791,2025-01-09,C0070,27in Monitor,Monitors,North,Online,2,346.35,0.05,658.07
+T00792,2025-11-25,C0218,USB-C Dock,Accessories,South,Retail,3,162.73,0.15,414.96
+T00793,2025-09-18,C0096,USB-C Dock,Accessories,West,Partner,2,156.24,0.05,296.86
+T00794,2025-01-04,C0138,Tablet 11,Tablets,West,Partner,1,511.7,0.1,460.53
+T00795,2025-10-23,C0189,Wireless Mouse,Accessories,North,Partner,1,48.9,0,48.9
+T00796,2025-09-04,C0385,Smartphone Lite,Phones,East,Retail,1,500.58,0.1,450.52
+T00797,2025-09-22,C0323,Laptop Air 13,Computers,North,Partner,2,968.46,0.05,1840.07
+T00798,2025-11-21,C0176,Webcam HD,Accessories,North,Retail,2,84.22,0,168.44
+T00799,2025-08-21,C0181,Webcam HD,Accessories,East,Retail,3,87.2,0.05,248.52
+T00800,2025-03-27,C0289,Laptop Pro 14,Computers,East,Online,2,1268.46,0.05,2410.07
+T00801,2025-11-19,C0150,Noise-Cancel Headset,Audio,North,Retail,2,182.36,0.05,346.48
+T00802,2025-09-06,C0130,Laptop Air 13,Computers,South,Partner,1,1033.02,0,1033.02
+T00803,2025-05-24,C0090,Mechanical Keyboard,Accessories,South,Partner,3,113.45,0,340.35
+T00804,2025-08-17,C0249,Wireless Mouse,Accessories,South,Partner,3,50.18,0,150.54
+T00805,2025-01-17,C0079,Wireless Mouse,Accessories,West,Retail,5,49.56,0.15,210.63
+T00806,2025-07-16,C0296,24in Monitor,Monitors,East,Online,2,219.86,0.1,395.75
+T00807,2025-11-25,C0205,Mechanical Keyboard,Accessories,West,Retail,2,114.25,0,228.5
+T00808,2025-09-01,C0350,Smartphone Lite,Phones,West,Retail,4,483.05,0.15,1642.37
+T00809,2025-05-15,C0230,27in Monitor,Monitors,West,Partner,2,340.15,0,680.3
+T00810,2025-06-11,C0327,Webcam HD,Accessories,East,Retail,2,93.46,0,186.92
+T00811,2025-11-09,C0051,Smartphone X,Phones,East,Partner,3,776.67,0,2330.01
+T00812,2025-10-27,C0345,USB-C Dock,Accessories,South,Partner,1,154.07,0.05,146.37
+T00813,2025-06-22,C0345,Smartphone X,Phones,North,Online,2,803.57,0,1607.14
+T00814,2025-01-07,C0113,USB-C Dock,Accessories,East,Retail,1,157.97,0,157.97
+T00815,2025-04-09,C0337,Laptop Pro 14,Computers,South,Partner,1,1367.35,0,1367.35
+T00816,2025-11-23,C0067,Laptop Air 13,Computers,West,Partner,2,1041.73,0,2083.46
+T00817,2025-11-28,C0095,Tablet 11,Tablets,East,Retail,3,475.7,0,1427.1
+T00818,2025-08-28,C0142,Smartphone X,Phones,West,Partner,4,839.53,0.05,3190.21
+T00819,2025-12-08,C0032,Wireless Mouse,Accessories,West,Retail,1,47.69,0.1,42.92
+T00820,2025-06-20,C0036,Laptop Pro 14,Computers,West,Online,1,1248.8,0.1,1123.92
+T00821,2025-11-09,C0394,USB-C Dock,Accessories,West,Online,1,152.21,0.05,144.6
+T00822,2025-11-11,C0018,Smartphone X,Phones,North,Online,1,775.89,0,775.89
+T00823,2025-10-20,C0077,Smartphone Lite,Phones,North,Online,1,522.74,0,522.74
+T00824,2025-12-07,C0295,USB-C Dock,Accessories,North,Partner,1,166.72,0.1,150.05
+T00825,2025-12-29,C0036,Noise-Cancel Headset,Audio,South,Online,1,183.89,0,183.89
+T00826,2025-07-16,C0184,Smartphone Lite,Phones,East,Partner,3,503.03,0.05,1433.64
+T00827,2025-06-05,C0188,USB-C Dock,Accessories,East,Online,1,161.81,0.2,129.45
+T00828,2025-08-24,C0197,Mechanical Keyboard,Accessories,South,Retail,2,112.42,0,224.84
+T00829,2025-12-23,C0044,USB-C Dock,Accessories,West,Partner,3,156.31,0.05,445.48
+T00830,2025-04-08,C0123,27in Monitor,Monitors,West,Retail,1,369.79,0,369.79
+T00831,2025-02-02,C0231,Webcam HD,Accessories,North,Online,2,93.97,0.05,178.54
+T00832,2025-06-23,C0109,Laptop Pro 14,Computers,West,Partner,1,1284.27,0.1,1155.84
+T00833,2025-10-02,C0377,27in Monitor,Monitors,South,Retail,2,331.08,0,662.16
+T00834,2025-12-01,C0360,Laptop Pro 14,Computers,South,Online,1,1228.2,0.15,1043.97
+T00835,2025-03-30,C0234,Smartphone X,Phones,South,Partner,1,827.16,0,827.16
+T00836,2025-02-02,C0033,Laptop Air 13,Computers,South,Retail,1,1012.86,0.05,962.22
+T00837,2025-06-22,C0295,Smartphone Lite,Phones,South,Retail,2,527.49,0,1054.98
+T00838,2025-04-20,C0073,Laptop Pro 14,Computers,West,Online,2,1239.88,0,2479.76
+T00839,2025-12-23,C0021,Wireless Mouse,Accessories,South,Online,2,51.5,0,103.0
+T00840,2025-11-20,C0042,Tablet 11,Tablets,North,Online,1,521.73,0,521.73
+T00841,2025-04-02,C0356,Laptop Air 13,Computers,West,Partner,2,973.07,0.05,1848.83
+T00842,2025-03-06,C0123,24in Monitor,Monitors,South,Partner,1,227.64,0,227.64
+T00843,2025-12-21,C0046,Laptop Pro 14,Computers,East,Retail,2,1316.47,0.1,2369.65
+T00844,2025-08-03,C0049,Laptop Pro 14,Computers,East,Partner,2,1374.85,0,2749.7
+T00845,2025-09-17,C0028,24in Monitor,Monitors,South,Online,1,220.98,0.05,209.93
+T00846,2025-03-18,C0082,Smartphone X,Phones,North,Online,3,798.76,0.15,2036.84
+T00847,2025-11-27,C0389,Wireless Mouse,Accessories,West,Online,1,48.03,0,48.03
+T00848,2025-02-23,C0015,Smartphone Lite,Phones,West,Partner,1,478.52,0.05,454.59
+T00849,2025-03-01,C0167,Laptop Air 13,Computers,West,Online,3,1010.11,0.1,2727.3
+T00850,2025-12-13,C0122,Wireless Mouse,Accessories,West,Online,1,47.4,0,47.4
+T00851,2025-07-12,C0224,24in Monitor,Monitors,South,Online,1,216.75,0.05,205.91
+T00852,2025-11-09,C0100,Noise-Cancel Headset,Audio,East,Retail,1,178.09,0,178.09
+T00853,2025-04-14,C0070,Wireless Mouse,Accessories,North,Retail,1,46.41,0.05,44.09
+T00854,2025-08-23,C0310,USB-C Dock,Accessories,South,Partner,1,166.37,0,166.37
+T00855,2025-11-10,C0211,27in Monitor,Monitors,West,Online,2,337.68,0.05,641.59
+T00856,2025-10-30,C0377,Noise-Cancel Headset,Audio,South,Online,3,183.94,0,551.82
+T00857,2025-06-17,C0077,USB-C Dock,Accessories,North,Retail,2,160.75,0.15,273.27
+T00858,2025-01-23,C0218,Laptop Pro 14,Computers,West,Retail,5,1299.66,0.1,5848.47
+T00859,2025-12-23,C0007,Laptop Air 13,Computers,West,Online,1,1006.01,0,1006.01
+T00860,2025-03-09,C0246,Wireless Mouse,Accessories,East,Online,1,46.59,0.05,44.26
+T00861,2025-12-27,C0233,Noise-Cancel Headset,Audio,West,Online,3,168.78,0.1,455.71
+T00862,2025-12-27,C0361,USB-C Dock,Accessories,North,Partner,1,161.42,0.1,145.28
+T00863,2025-02-06,C0219,USB-C Dock,Accessories,East,Partner,3,150.08,0,450.24
+T00864,2025-11-10,C0318,Webcam HD,Accessories,East,Partner,2,90.97,0,181.94
+T00865,2025-01-29,C0057,Webcam HD,Accessories,West,Retail,4,93.14,0.05,353.93
+T00866,2025-08-27,C0361,Tablet 11,Tablets,North,Partner,1,507.87,0,507.87
+T00867,2025-12-30,C0333,24in Monitor,Monitors,West,Partner,1,230.09,0,230.09
+T00868,2025-10-25,C0181,Smartphone Lite,Phones,East,Partner,1,482.56,0.1,434.3
+T00869,2025-12-15,C0249,USB-C Dock,Accessories,North,Retail,1,156.05,0,156.05
+T00870,2025-12-30,C0318,Webcam HD,Accessories,East,Partner,2,86.78,0.05,164.88
+T00871,2025-12-21,C0201,Laptop Air 13,Computers,South,Retail,1,949.53,0.15,807.1
+T00872,2025-02-09,C0078,Laptop Air 13,Computers,South,Partner,1,956.8,0,956.8
+T00873,2025-11-18,C0068,Laptop Pro 14,Computers,West,Retail,1,1305.46,0.15,1109.64
+T00874,2025-08-04,C0012,Noise-Cancel Headset,Audio,South,Partner,2,172.32,0,344.64
+T00875,2025-11-27,C0168,Wireless Mouse,Accessories,West,Partner,1,49.86,0,49.86
+T00876,2025-12-07,C0291,Smartphone Lite,Phones,South,Retail,2,496.49,0.05,943.33
+T00877,2025-03-29,C0025,Mechanical Keyboard,Accessories,South,Retail,1,115.97,0,115.97
+T00878,2025-05-26,C0275,Noise-Cancel Headset,Audio,East,Online,4,171.71,0.05,652.5
+T00879,2025-03-31,C0122,Smartphone Lite,Phones,North,Online,2,478.25,0.05,908.67
+T00880,2025-06-12,C0288,Tablet 11,Tablets,North,Partner,1,480.11,0,480.11
+T00881,2025-06-12,C0274,Wireless Mouse,Accessories,East,Online,1,51.8,0,51.8
+T00882,2025-01-13,C0164,USB-C Dock,Accessories,South,Online,4,167.54,0.1,603.14
+T00883,2025-10-07,C0149,Webcam HD,Accessories,South,Partner,1,88.72,0.1,79.85
+T00884,2025-08-15,C0072,Wireless Mouse,Accessories,North,Retail,2,51.35,0.1,92.43
+T00885,2025-01-13,C0168,USB-C Dock,Accessories,North,Partner,2,156.28,0,312.56
+T00886,2025-11-25,C0143,24in Monitor,Monitors,South,Online,2,240.97,0,481.94
+T00887,2025-02-12,C0263,Webcam HD,Accessories,West,Online,3,93.89,0.05,267.59
+T00888,2025-09-09,C0342,Wireless Mouse,Accessories,East,Retail,2,46.39,0.05,88.14
+T00889,2025-03-17,C0146,Smartphone Lite,Phones,East,Retail,3,491.39,0,1474.17
+T00890,2025-06-07,C0228,Noise-Cancel Headset,Audio,West,Retail,3,183.89,0,551.67
+T00891,2025-05-28,C0213,27in Monitor,Monitors,South,Partner,3,345.81,0.2,829.94
+T00892,2025-11-03,C0269,Laptop Air 13,Computers,East,Online,1,1057.55,0,1057.55
+T00893,2025-10-30,C0213,USB-C Dock,Accessories,South,Partner,1,166.91,0,166.91
+T00894,2025-08-25,C0196,Smartphone Lite,Phones,East,Partner,2,480.99,0.15,817.68
+T00895,2025-09-09,C0253,Laptop Pro 14,Computers,West,Online,3,1312.28,0,3936.84
+T00896,2025-01-14,C0326,Laptop Pro 14,Computers,West,Online,1,1320.91,0,1320.91
+T00897,2025-12-01,C0353,Smartphone X,Phones,South,Online,3,798.22,0,2394.66
+T00898,2025-03-03,C0186,Mechanical Keyboard,Accessories,West,Partner,1,120.41,0.2,96.33
+T00899,2025-08-12,C0062,Mechanical Keyboard,Accessories,East,Partner,2,121.77,0.05,231.36
+T00900,2025-10-22,C0164,Laptop Pro 14,Computers,West,Partner,3,1230.18,0,3690.54
+T00901,2025-03-11,C0183,Wireless Mouse,Accessories,North,Retail,1,48.53,0,48.53
+T00902,2025-05-30,C0322,Webcam HD,Accessories,South,Online,2,85.73,0,171.46
+T00903,2025-11-03,C0351,27in Monitor,Monitors,East,Retail,2,362.69,0.1,652.84
+T00904,2025-12-17,C0074,Smartphone Lite,Phones,North,Online,2,503.79,0,1007.58
+T00905,2025-09-23,C0084,Mechanical Keyboard,Accessories,North,Online,1,116.72,0.05,110.88
+T00906,2025-03-21,C0315,Webcam HD,Accessories,North,Retail,1,93.24,0,93.24
+T00907,2025-08-24,C0179,Laptop Air 13,Computers,East,Partner,1,941.14,0,941.14
+T00908,2025-07-05,C0391,27in Monitor,Monitors,East,Online,3,353.09,0.15,900.38
+T00909,2025-12-30,C0356,Mechanical Keyboard,Accessories,South,Partner,1,115.04,0.1,103.54
+T00910,2025-04-27,C0354,Mechanical Keyboard,Accessories,North,Online,1,112.98,0,112.98
+T00911,2025-01-10,C0338,Noise-Cancel Headset,Audio,North,Retail,2,170.58,0,341.16
+T00912,2025-03-02,C0050,Mechanical Keyboard,Accessories,North,Partner,1,112.01,0,112.01
+T00913,2025-04-16,C0047,Tablet 11,Tablets,South,Partner,3,490.11,0,1470.33
+T00914,2025-05-23,C0374,Tablet 11,Tablets,South,Partner,1,499.04,0,499.04
+T00915,2025-10-19,C0112,Laptop Air 13,Computers,South,Retail,1,940.74,0.05,893.7
+T00916,2025-03-29,C0259,Webcam HD,Accessories,West,Retail,1,93.53,0.1,84.18
+T00917,2025-12-24,C0182,Tablet 11,Tablets,West,Retail,1,475.49,0.05,451.72
+T00918,2025-04-20,C0064,Webcam HD,Accessories,West,Online,1,94.18,0,94.18
+T00919,2025-09-24,C0370,27in Monitor,Monitors,North,Online,1,340.13,0,340.13
+T00920,2025-06-17,C0160,Noise-Cancel Headset,Audio,West,Online,1,181.16,0,181.16
+T00921,2025-10-11,C0036,USB-C Dock,Accessories,West,Partner,1,153.06,0.1,137.75
+T00922,2025-07-08,C0203,27in Monitor,Monitors,West,Partner,1,356.21,0.05,338.4
+T00923,2025-12-04,C0303,Smartphone X,Phones,North,Partner,1,789.47,0,789.47
+T00924,2025-03-28,C0207,Laptop Air 13,Computers,North,Online,1,963.07,0,963.07
+T00925,2025-08-06,C0304,Smartphone Lite,Phones,East,Partner,1,514.93,0.1,463.44
+T00926,2025-07-24,C0249,Wireless Mouse,Accessories,East,Online,1,48.44,0.05,46.02
+T00927,2025-08-21,C0069,Laptop Air 13,Computers,North,Online,1,966.73,0.05,918.39
+T00928,2025-01-28,C0310,Laptop Air 13,Computers,East,Online,1,960.53,0,960.53
+T00929,2025-06-05,C0267,Tablet 11,Tablets,West,Retail,2,508.65,0.1,915.57
+T00930,2025-04-14,C0176,Mechanical Keyboard,Accessories,North,Online,2,115.6,0.05,219.64
+T00931,2025-08-09,C0236,Laptop Air 13,Computers,North,Online,1,984.18,0,984.18
+T00932,2025-04-01,C0085,Webcam HD,Accessories,West,Retail,2,93.11,0.1,167.6
+T00933,2025-03-10,C0346,Mechanical Keyboard,Accessories,West,Partner,2,113.42,0.05,215.5
+T00934,2025-10-11,C0081,Smartphone X,Phones,North,Retail,2,804.97,0.05,1529.44
+T00935,2025-05-15,C0393,Noise-Cancel Headset,Audio,East,Retail,2,182.79,0,365.58
+T00936,2025-02-01,C0380,Laptop Pro 14,Computers,North,Partner,2,1278.18,0,2556.36
+T00937,2025-06-24,C0180,USB-C Dock,Accessories,North,Partner,1,156.28,0,156.28
+T00938,2025-05-06,C0353,24in Monitor,Monitors,North,Retail,1,217.59,0,217.59
+T00939,2025-02-28,C0337,Wireless Mouse,Accessories,West,Partner,1,46.28,0.05,43.97
+T00940,2025-09-21,C0163,USB-C Dock,Accessories,West,Partner,1,160.68,0.05,152.65
+T00941,2025-07-19,C0346,Wireless Mouse,Accessories,South,Retail,2,46.65,0.1,83.97
+T00942,2025-09-12,C0154,Webcam HD,Accessories,East,Retail,3,85.44,0.05,243.5
+T00943,2025-04-14,C0275,Noise-Cancel Headset,Audio,South,Retail,2,169.88,0.2,271.81
+T00944,2025-05-16,C0320,Laptop Pro 14,Computers,North,Partner,1,1346.48,0.05,1279.16
+T00945,2025-10-24,C0272,Laptop Air 13,Computers,West,Retail,2,1006.96,0,2013.92
+T00946,2025-04-18,C0154,Wireless Mouse,Accessories,West,Partner,2,47.83,0.05,90.88
+T00947,2025-10-04,C0233,Wireless Mouse,Accessories,South,Online,1,49.73,0,49.73
+T00948,2025-11-18,C0339,Smartphone Lite,Phones,West,Retail,1,498.95,0,498.95
+T00949,2025-11-23,C0290,Webcam HD,Accessories,North,Partner,3,93.35,0.1,252.04
+T00950,2025-04-13,C0392,Wireless Mouse,Accessories,East,Retail,1,50.45,0,50.45
+T00951,2025-07-30,C0212,Wireless Mouse,Accessories,East,Retail,3,49.79,0.15,126.96
+T00952,2025-11-27,C0059,27in Monitor,Monitors,South,Online,1,345.06,0.05,327.81
+T00953,2025-01-15,C0224,24in Monitor,Monitors,West,Partner,2,228.6,0,457.2
+T00954,2025-01-19,C0143,24in Monitor,Monitors,South,Partner,1,222.36,0,222.36
+T00955,2025-01-22,C0043,Smartphone Lite,Phones,East,Partner,1,520.53,0,520.53
+T00956,2025-06-02,C0337,Laptop Air 13,Computers,North,Retail,3,982.63,0,2947.89
+T00957,2025-03-13,C0268,24in Monitor,Monitors,East,Retail,1,240.9,0.1,216.81
+T00958,2025-02-16,C0300,24in Monitor,Monitors,West,Partner,2,223.87,0.1,402.97
+T00959,2025-05-01,C0141,USB-C Dock,Accessories,West,Retail,1,153.55,0,153.55
+T00960,2025-05-11,C0058,Tablet 11,Tablets,East,Partner,1,510.95,0.05,485.4
+T00961,2025-08-05,C0075,Noise-Cancel Headset,Audio,East,Retail,2,187.15,0.15,318.16
+T00962,2025-07-08,C0379,Mechanical Keyboard,Accessories,North,Partner,1,120.51,0.15,102.43
+T00963,2025-12-10,C0359,24in Monitor,Monitors,East,Partner,1,232.82,0,232.82
+T00964,2025-03-04,C0202,Webcam HD,Accessories,East,Retail,3,87.81,0.1,237.09
+T00965,2025-02-16,C0225,24in Monitor,Monitors,East,Partner,1,219.66,0.1,197.69
+T00966,2025-07-28,C0252,Laptop Pro 14,Computers,West,Partner,1,1342.56,0,1342.56
+T00967,2025-07-31,C0083,Wireless Mouse,Accessories,East,Partner,2,50.88,0.1,91.58
+T00968,2025-02-03,C0168,Wireless Mouse,Accessories,West,Partner,1,49.28,0.1,44.35
+T00969,2025-01-15,C0329,Laptop Pro 14,Computers,South,Online,2,1290.18,0,2580.36
+T00970,2025-07-25,C0081,24in Monitor,Monitors,South,Partner,2,217.52,0,435.04
+T00971,2025-11-29,C0164,27in Monitor,Monitors,West,Retail,3,361.26,0.05,1029.59
+T00972,2025-03-10,C0145,Mechanical Keyboard,Accessories,South,Online,1,116.54,0.05,110.71
+T00973,2025-08-01,C0293,Wireless Mouse,Accessories,South,Online,1,51.62,0.1,46.46
+T00974,2025-01-12,C0237,Webcam HD,Accessories,South,Retail,2,93.35,0.05,177.36
+T00975,2025-12-26,C0077,27in Monitor,Monitors,North,Retail,1,353.2,0.05,335.54
+T00976,2025-03-29,C0233,Tablet 11,Tablets,West,Online,1,495.12,0.1,445.61
+T00977,2025-04-25,C0137,Smartphone Lite,Phones,East,Partner,1,517.77,0.15,440.1
+T00978,2025-09-11,C0145,USB-C Dock,Accessories,South,Retail,1,160.91,0.1,144.82
+T00979,2025-04-03,C0121,USB-C Dock,Accessories,West,Online,2,168.08,0,336.16
+T00980,2025-07-09,C0069,Tablet 11,Tablets,East,Partner,2,469.68,0.05,892.39
+T00981,2025-07-23,C0306,Smartphone X,Phones,East,Online,1,791.65,0,791.65
+T00982,2025-02-18,C0182,Webcam HD,Accessories,North,Online,1,86.17,0,86.17
+T00983,2025-05-10,C0190,Webcam HD,Accessories,South,Partner,2,87.88,0,175.76
+T00984,2025-01-22,C0174,Tablet 11,Tablets,West,Online,1,498.57,0,498.57
+T00985,2025-02-15,C0161,Wireless Mouse,Accessories,North,Online,2,47.59,0,95.18
+T00986,2025-09-13,C0135,Mechanical Keyboard,Accessories,East,Partner,2,115.9,0.15,197.03
+T00987,2025-06-10,C0392,USB-C Dock,Accessories,South,Partner,3,168.44,0,505.32
+T00988,2025-12-03,C0118,Smartphone X,Phones,South,Online,2,765.31,0,1530.62
+T00989,2025-08-29,C0254,Mechanical Keyboard,Accessories,North,Retail,1,113.52,0.05,107.84
+T00990,2025-07-02,C0369,Smartphone Lite,Phones,South,Online,2,475.8,0.05,904.02
+T00991,2025-06-28,C0384,Laptop Air 13,Computers,East,Partner,1,1039.15,0,1039.15
+T00992,2025-12-06,C0393,Tablet 11,Tablets,South,Retail,1,469.31,0.2,375.45
+T00993,2025-02-09,C0014,24in Monitor,Monitors,East,Partner,2,239.64,0.05,455.32
+T00994,2025-12-15,C0166,Laptop Air 13,Computers,South,Online,1,1053.09,0.05,1000.44
+T00995,2025-02-11,C0138,Noise-Cancel Headset,Audio,North,Retail,3,178.01,0.05,507.33
+T00996,2025-01-23,C0376,Smartphone X,Phones,South,Online,2,841.9,0.05,1599.61
+T00997,2025-01-25,C0281,Smartphone X,Phones,West,Online,1,822.38,0.1,740.14
+T00998,2025-07-24,C0046,Mechanical Keyboard,Accessories,North,Online,1,124.22,0.15,105.59
+T00999,2025-03-25,C0335,USB-C Dock,Accessories,South,Online,2,163.82,0,327.64
+T01000,2025-06-02,C0351,Noise-Cancel Headset,Audio,South,Retail,3,188.06,0.1,507.76
+T01001,2025-12-07,C0199,Laptop Air 13,Computers,West,Retail,3,997.76,0.05,2843.62
+T01002,2025-10-16,C0315,Tablet 11,Tablets,South,Retail,1,517.62,0.1,465.86
+T01003,2025-11-19,C0347,USB-C Dock,Accessories,South,Partner,1,168.03,0.05,159.63
+T01004,2025-12-18,C0269,Smartphone Lite,Phones,North,Retail,1,506.76,0.05,481.42
+T01005,2025-08-28,C0066,USB-C Dock,Accessories,East,Online,1,155.19,0.1,139.67
+T01006,2025-09-25,C0024,USB-C Dock,Accessories,North,Partner,1,150.92,0,150.92
+T01007,2025-08-06,C0130,USB-C Dock,Accessories,East,Retail,1,160.31,0.05,152.29
+T01008,2025-10-27,C0237,Laptop Air 13,Computers,South,Online,2,1027.83,0,2055.66
+T01009,2025-07-21,C0301,Laptop Pro 14,Computers,West,Partner,1,1267.46,0.1,1140.71
+T01010,2025-08-19,C0096,Tablet 11,Tablets,South,Online,3,524.04,0,1572.12
+T01011,2025-02-10,C0223,Smartphone Lite,Phones,North,Online,5,509.38,0,2546.9
+T01012,2025-07-22,C0208,Laptop Air 13,Computers,West,Retail,1,994.22,0.05,944.51
+T01013,2025-11-13,C0203,Tablet 11,Tablets,East,Online,1,510.39,0.05,484.87
+T01014,2025-03-06,C0097,27in Monitor,Monitors,North,Online,1,328.73,0,328.73
+T01015,2025-09-04,C0276,Smartphone X,Phones,South,Online,1,831.8,0,831.8
+T01016,2025-06-04,C0079,Noise-Cancel Headset,Audio,West,Retail,1,170.76,0,170.76
+T01017,2025-08-30,C0292,Laptop Pro 14,Computers,West,Online,3,1252.44,0.05,3569.45
+T01018,2025-06-20,C0213,Laptop Pro 14,Computers,West,Partner,1,1288.37,0.1,1159.53
+T01019,2025-10-24,C0205,Tablet 11,Tablets,West,Partner,2,471.28,0.2,754.05
+T01020,2025-10-30,C0250,Smartphone Lite,Phones,South,Partner,2,517.96,0.05,984.12
+T01021,2025-02-01,C0138,Webcam HD,Accessories,West,Retail,1,89.57,0.05,85.09
+T01022,2025-03-01,C0224,Noise-Cancel Headset,Audio,North,Online,2,177.89,0.05,337.99
+T01023,2025-05-28,C0113,Smartphone Lite,Phones,East,Partner,1,482.96,0,482.96
+T01024,2025-12-03,C0214,Noise-Cancel Headset,Audio,East,Retail,1,183.54,0,183.54
+T01025,2025-03-24,C0248,Tablet 11,Tablets,South,Online,1,474.22,0.05,450.51
+T01026,2025-04-13,C0253,27in Monitor,Monitors,East,Online,2,345.48,0,690.96
+T01027,2025-04-18,C0183,Webcam HD,Accessories,South,Online,1,93.07,0,93.07
+T01028,2025-09-15,C0117,Laptop Pro 14,Computers,North,Partner,3,1238.83,0,3716.49
+T01029,2025-04-25,C0024,Noise-Cancel Headset,Audio,East,Online,1,175.89,0,175.89
+T01030,2025-12-20,C0225,Webcam HD,Accessories,West,Online,2,84.2,0,168.4
+T01031,2025-02-24,C0288,Tablet 11,Tablets,North,Partner,2,475.16,0.1,855.29
+T01032,2025-02-23,C0081,27in Monitor,Monitors,East,Partner,2,366.21,0.1,659.18
+T01033,2025-08-15,C0187,Webcam HD,Accessories,East,Online,1,85.31,0.1,76.78
+T01034,2025-03-04,C0126,24in Monitor,Monitors,West,Retail,1,236.39,0,236.39
+T01035,2025-05-27,C0213,Webcam HD,Accessories,East,Partner,1,91.3,0,91.3
+T01036,2025-12-07,C0117,24in Monitor,Monitors,South,Retail,1,226.85,0.1,204.16
+T01037,2025-07-31,C0350,USB-C Dock,Accessories,East,Online,3,159.31,0.15,406.24
+T01038,2025-08-15,C0036,27in Monitor,Monitors,North,Retail,2,349.73,0.1,629.51
+T01039,2025-06-11,C0389,USB-C Dock,Accessories,North,Partner,5,150.63,0,753.15
+T01040,2025-11-25,C0366,27in Monitor,Monitors,East,Retail,3,354.51,0,1063.53
+T01041,2025-07-25,C0161,Smartphone X,Phones,East,Online,2,820.24,0.1,1476.43
+T01042,2025-05-24,C0330,Webcam HD,Accessories,South,Partner,2,87.97,0,175.94
+T01043,2025-11-16,C0333,Tablet 11,Tablets,West,Online,2,522.21,0.05,992.2
+T01044,2025-06-04,C0379,Laptop Air 13,Computers,South,Partner,1,1025.98,0,1025.98
+T01045,2025-10-04,C0175,Mechanical Keyboard,Accessories,South,Online,1,116.32,0.05,110.5
+T01046,2025-01-15,C0372,Webcam HD,Accessories,West,Partner,2,91.93,0,183.86
+T01047,2025-02-26,C0182,Smartphone Lite,Phones,North,Online,1,506.6,0,506.6
+T01048,2025-11-30,C0174,Laptop Air 13,Computers,South,Partner,1,939.68,0.05,892.7
+T01049,2025-10-25,C0305,Tablet 11,Tablets,South,Retail,2,508.91,0.15,865.15
+T01050,2025-06-03,C0072,Mechanical Keyboard,Accessories,West,Partner,2,120.04,0.1,216.07
+T01051,2025-05-07,C0185,Laptop Air 13,Computers,West,Online,1,1037.7,0.05,985.81
+T01052,2025-03-17,C0218,Smartphone Lite,Phones,South,Retail,1,474.58,0,474.58
+T01053,2025-04-20,C0287,Noise-Cancel Headset,Audio,West,Retail,1,176.91,0.05,168.06
+T01054,2025-10-27,C0251,Noise-Cancel Headset,Audio,West,Online,2,183.06,0.2,292.9
+T01055,2025-03-15,C0361,Webcam HD,Accessories,North,Partner,1,85.04,0.1,76.54
+T01056,2025-04-19,C0190,Noise-Cancel Headset,Audio,North,Partner,1,188.54,0.1,169.69
+T01057,2025-07-29,C0079,Laptop Air 13,Computers,North,Retail,1,943.89,0.05,896.7
+T01058,2025-06-06,C0073,Wireless Mouse,Accessories,West,Online,1,50.71,0.05,48.17
+T01059,2025-06-06,C0063,Mechanical Keyboard,Accessories,East,Online,1,118.84,0.1,106.96
+T01060,2025-01-23,C0173,USB-C Dock,Accessories,West,Retail,1,158.09,0,158.09
+T01061,2025-11-07,C0231,27in Monitor,Monitors,West,Online,2,347.36,0.05,659.98
+T01062,2025-06-16,C0120,Laptop Air 13,Computers,West,Retail,2,988.17,0.05,1877.52
+T01063,2025-10-04,C0331,Laptop Pro 14,Computers,North,Online,4,1335.77,0.15,4541.62
+T01064,2025-12-29,C0288,Laptop Pro 14,Computers,North,Partner,2,1331.33,0.1,2396.39
+T01065,2025-10-14,C0028,Laptop Air 13,Computers,South,Retail,1,1008.21,0.05,957.8
+T01066,2025-09-15,C0010,Laptop Pro 14,Computers,East,Online,1,1249.08,0.15,1061.72
+T01067,2025-05-06,C0274,Smartphone Lite,Phones,East,Retail,3,474.13,0.05,1351.27
+T01068,2025-10-29,C0093,Laptop Pro 14,Computers,West,Online,1,1274.05,0.15,1082.94
+T01069,2025-09-28,C0278,Wireless Mouse,Accessories,South,Retail,1,51.82,0,51.82
+T01070,2025-03-15,C0209,27in Monitor,Monitors,South,Online,1,340.91,0,340.91
+T01071,2025-11-11,C0051,Wireless Mouse,Accessories,East,Online,1,47.81,0.1,43.03
+T01072,2025-07-31,C0027,Wireless Mouse,Accessories,South,Online,1,51.35,0.15,43.65
+T01073,2025-11-02,C0059,Tablet 11,Tablets,East,Online,1,499.26,0.05,474.3
+T01074,2025-06-12,C0325,Noise-Cancel Headset,Audio,South,Online,2,168.88,0,337.76
+T01075,2025-05-18,C0285,Webcam HD,Accessories,South,Retail,4,86.29,0.05,327.9
+T01076,2025-10-18,C0073,USB-C Dock,Accessories,East,Partner,1,159.01,0.1,143.11
+T01077,2025-03-28,C0232,24in Monitor,Monitors,North,Online,2,240.31,0,480.62
+T01078,2025-08-26,C0247,Tablet 11,Tablets,East,Partner,1,469.09,0.2,375.27
+T01079,2025-05-09,C0300,Smartphone X,Phones,East,Online,1,811.68,0,811.68
+T01080,2025-03-24,C0358,Smartphone Lite,Phones,North,Online,2,474.43,0,948.86
+T01081,2025-10-12,C0163,Mechanical Keyboard,Accessories,East,Partner,3,119.07,0,357.21
+T01082,2025-05-14,C0175,Smartphone Lite,Phones,South,Retail,1,527.92,0,527.92
+T01083,2025-11-03,C0002,Wireless Mouse,Accessories,West,Online,1,49.86,0.05,47.37
+T01084,2025-01-05,C0251,Smartphone X,Phones,West,Partner,1,817.84,0.05,776.95
+T01085,2025-02-11,C0344,Smartphone X,Phones,West,Partner,2,836.64,0.05,1589.62
+T01086,2025-03-05,C0199,Wireless Mouse,Accessories,South,Partner,4,49.6,0,198.4
+T01087,2025-01-05,C0114,Laptop Air 13,Computers,North,Retail,1,992.36,0.15,843.51
+T01088,2025-12-15,C0156,Smartphone Lite,Phones,South,Online,1,505.79,0,505.79
+T01089,2025-09-10,C0311,Wireless Mouse,Accessories,South,Online,1,50.2,0.05,47.69
+T01090,2025-04-11,C0253,Smartphone X,Phones,South,Partner,1,805.63,0.1,725.07
+T01091,2025-04-10,C0090,Smartphone X,Phones,North,Partner,2,808.87,0.05,1536.85
+T01092,2025-03-07,C0117,Smartphone Lite,Phones,East,Online,1,503.19,0,503.19
+T01093,2025-12-14,C0130,Laptop Pro 14,Computers,West,Online,5,1304.13,0.05,6194.62
+T01094,2025-08-07,C0166,Smartphone X,Phones,West,Retail,2,832.93,0.05,1582.57
+T01095,2025-05-21,C0389,Laptop Air 13,Computers,North,Partner,2,982.39,0.05,1866.54
+T01096,2025-04-25,C0003,Laptop Pro 14,Computers,West,Online,1,1291.03,0,1291.03
+T01097,2025-06-21,C0116,Laptop Air 13,Computers,West,Online,3,1057.77,0.1,2855.98
+T01098,2025-05-08,C0050,24in Monitor,Monitors,North,Retail,1,232.46,0,232.46
+T01099,2025-08-10,C0129,Laptop Pro 14,Computers,South,Online,2,1273.17,0.05,2419.02
+T01100,2025-08-31,C0267,24in Monitor,Monitors,South,Online,4,237.84,0.1,856.22
+T01101,2025-11-04,C0064,Tablet 11,Tablets,North,Online,1,495.79,0,495.79
+T01102,2025-01-18,C0066,USB-C Dock,Accessories,North,Retail,1,150.7,0.1,135.63
+T01103,2025-01-29,C0029,Mechanical Keyboard,Accessories,North,Retail,2,113.31,0,226.62
+T01104,2025-07-15,C0307,USB-C Dock,Accessories,North,Retail,1,153.91,0.1,138.52
+T01105,2025-07-16,C0174,Noise-Cancel Headset,Audio,North,Retail,2,181.56,0.1,326.81
+T01106,2025-09-22,C0366,Wireless Mouse,Accessories,North,Partner,2,46.13,0,92.26
+T01107,2025-04-10,C0247,Tablet 11,Tablets,West,Online,1,490.34,0.05,465.82
+T01108,2025-05-05,C0224,27in Monitor,Monitors,East,Retail,2,341.11,0,682.22
+T01109,2025-10-26,C0176,Webcam HD,Accessories,East,Retail,2,86.96,0,173.92
+T01110,2025-01-05,C0260,Webcam HD,Accessories,North,Retail,2,84.27,0.05,160.11
+T01111,2025-06-26,C0036,24in Monitor,Monitors,East,Online,4,220.79,0.05,839.0
+T01112,2025-12-08,C0170,Noise-Cancel Headset,Audio,East,Partner,2,181.14,0.2,289.82
+T01113,2025-06-03,C0022,USB-C Dock,Accessories,West,Online,1,166.18,0,166.18
+T01114,2025-01-02,C0123,Smartphone X,Phones,West,Partner,1,810.88,0,810.88
+T01115,2025-06-19,C0004,Smartphone Lite,Phones,East,Online,1,518.53,0,518.53
+T01116,2025-02-07,C0100,Wireless Mouse,Accessories,East,Online,1,47.77,0,47.77
+T01117,2025-01-16,C0369,24in Monitor,Monitors,South,Retail,1,239.59,0,239.59
+T01118,2025-10-11,C0052,24in Monitor,Monitors,North,Partner,1,238.42,0,238.42
+T01119,2025-03-12,C0108,USB-C Dock,Accessories,East,Retail,2,155.92,0.15,265.06
+T01120,2025-05-03,C0320,Wireless Mouse,Accessories,West,Partner,3,51.59,0.05,147.03
+T01121,2025-02-03,C0099,Laptop Air 13,Computers,West,Partner,1,1034.35,0.15,879.2
+T01122,2025-07-11,C0024,Wireless Mouse,Accessories,South,Partner,2,47.5,0.2,76.0
+T01123,2025-05-31,C0065,27in Monitor,Monitors,West,Online,1,361.38,0,361.38
+T01124,2025-02-11,C0199,Noise-Cancel Headset,Audio,East,Retail,2,171.86,0.05,326.53
+T01125,2025-09-23,C0248,Noise-Cancel Headset,Audio,West,Retail,1,179.55,0.1,161.6
+T01126,2025-05-18,C0019,Tablet 11,Tablets,South,Online,1,504.03,0.15,428.43
+T01127,2025-04-14,C0194,Noise-Cancel Headset,Audio,South,Retail,3,174.83,0,524.49
+T01128,2025-05-11,C0266,Webcam HD,Accessories,East,Online,1,86.81,0.1,78.13
+T01129,2025-10-26,C0240,Laptop Pro 14,Computers,West,Retail,1,1287.48,0.05,1223.11
+T01130,2025-07-08,C0120,Noise-Cancel Headset,Audio,East,Partner,1,172.12,0,172.12
+T01131,2025-02-08,C0280,Wireless Mouse,Accessories,North,Retail,3,49.01,0,147.03
+T01132,2025-04-27,C0171,Laptop Air 13,Computers,South,Partner,1,1004.52,0,1004.52
+T01133,2025-06-18,C0141,Mechanical Keyboard,Accessories,South,Partner,1,121.62,0.1,109.46
+T01134,2025-11-06,C0134,27in Monitor,Monitors,North,Retail,5,359.04,0.1,1615.68
+T01135,2025-05-25,C0297,Wireless Mouse,Accessories,North,Retail,2,48.45,0,96.9
+T01136,2025-12-01,C0117,Webcam HD,Accessories,South,Partner,5,92.9,0.15,394.82
+T01137,2025-04-18,C0240,Noise-Cancel Headset,Audio,West,Retail,1,180.13,0.05,171.12
+T01138,2025-02-13,C0214,Wireless Mouse,Accessories,South,Retail,3,51.6,0,154.8
+T01139,2025-08-19,C0157,Webcam HD,Accessories,North,Retail,1,92.99,0,92.99
+T01140,2025-12-04,C0207,Wireless Mouse,Accessories,East,Retail,1,50.09,0,50.09
+T01141,2025-10-28,C0170,Laptop Pro 14,Computers,West,Retail,2,1242.75,0,2485.5
+T01142,2025-04-15,C0169,USB-C Dock,Accessories,West,Partner,1,158.52,0,158.52
+T01143,2025-06-05,C0353,Laptop Air 13,Computers,West,Online,1,960.36,0.05,912.34
+T01144,2025-04-06,C0120,24in Monitor,Monitors,East,Partner,1,223.06,0.15,189.6
+T01145,2025-09-26,C0168,Laptop Air 13,Computers,West,Retail,1,940.38,0,940.38
+T01146,2025-03-22,C0200,Laptop Air 13,Computers,South,Online,1,1028.15,0,1028.15
+T01147,2025-04-16,C0310,Mechanical Keyboard,Accessories,East,Partner,1,118.64,0.1,106.78
+T01148,2025-04-14,C0074,Webcam HD,Accessories,West,Online,2,85.81,0.05,163.04
+T01149,2025-07-24,C0252,Tablet 11,Tablets,West,Retail,3,523.57,0.05,1492.17
+T01150,2025-10-22,C0234,Laptop Pro 14,Computers,East,Partner,2,1358.39,0,2716.78
+T01151,2025-12-31,C0213,Mechanical Keyboard,Accessories,South,Online,1,124.0,0.1,111.6
+T01152,2025-11-13,C0358,Smartphone Lite,Phones,North,Retail,1,508.53,0,508.53
+T01153,2025-12-24,C0322,Laptop Pro 14,Computers,East,Partner,1,1263.74,0.1,1137.37
+T01154,2025-02-04,C0211,Smartphone Lite,Phones,North,Retail,2,523.48,0.15,889.92
+T01155,2025-02-09,C0085,Laptop Air 13,Computers,East,Online,1,988.22,0.1,889.4
+T01156,2025-09-17,C0384,Laptop Pro 14,Computers,West,Retail,1,1329.32,0,1329.32
+T01157,2025-06-25,C0129,Smartphone Lite,Phones,North,Partner,1,471.32,0,471.32
+T01158,2025-03-11,C0043,Wireless Mouse,Accessories,South,Partner,2,48.77,0.05,92.66
+T01159,2025-08-13,C0010,27in Monitor,Monitors,North,Online,1,334.82,0,334.82
+T01160,2025-05-31,C0391,Laptop Air 13,Computers,North,Partner,2,948.36,0,1896.72
+T01161,2025-05-20,C0346,27in Monitor,Monitors,South,Retail,1,357.98,0,357.98
+T01162,2025-12-23,C0367,Laptop Pro 14,Computers,North,Retail,3,1320.98,0.1,3566.65
+T01163,2025-12-20,C0194,Mechanical Keyboard,Accessories,South,Online,1,112.55,0.05,106.92
+T01164,2025-07-11,C0008,24in Monitor,Monitors,East,Online,1,216.03,0,216.03
+T01165,2025-12-15,C0341,Smartphone X,Phones,South,Partner,1,760.32,0.15,646.27
+T01166,2025-03-27,C0288,Laptop Pro 14,Computers,South,Partner,1,1272.05,0,1272.05
+T01167,2025-04-17,C0055,Webcam HD,Accessories,East,Retail,1,86.14,0,86.14
+T01168,2025-03-30,C0235,Laptop Pro 14,Computers,South,Online,1,1281.73,0,1281.73
+T01169,2025-12-03,C0112,Mechanical Keyboard,Accessories,West,Retail,2,112.82,0,225.64
+T01170,2025-11-03,C0292,Noise-Cancel Headset,Audio,South,Retail,5,179.78,0,898.9
+T01171,2025-02-18,C0395,Tablet 11,Tablets,South,Retail,1,492.33,0.05,467.71
+T01172,2025-03-31,C0342,Smartphone X,Phones,West,Online,2,844.83,0.05,1605.18
+T01173,2025-06-21,C0328,Laptop Pro 14,Computers,South,Partner,2,1280.66,0.05,2433.25
+T01174,2025-10-28,C0064,Smartphone Lite,Phones,East,Online,5,505.97,0,2529.85
+T01175,2025-08-08,C0152,24in Monitor,Monitors,South,Online,2,225.55,0,451.1
+T01176,2025-07-12,C0228,24in Monitor,Monitors,East,Online,2,235.19,0,470.38
+T01177,2025-05-23,C0213,Wireless Mouse,Accessories,East,Online,2,49.12,0.1,88.42
+T01178,2025-04-28,C0341,Smartphone Lite,Phones,South,Partner,1,501.35,0,501.35
+T01179,2025-12-23,C0094,Smartphone Lite,Phones,West,Partner,1,500.29,0.1,450.26
+T01180,2025-01-04,C0325,Laptop Air 13,Computers,South,Online,3,962.13,0,2886.39
+T01181,2025-03-06,C0105,Laptop Air 13,Computers,South,Partner,1,1034.39,0.05,982.67
+T01182,2025-02-10,C0126,USB-C Dock,Accessories,West,Online,2,163.23,0,326.46
+T01183,2025-11-07,C0104,24in Monitor,Monitors,East,Retail,1,241.85,0.05,229.76
+T01184,2025-02-10,C0259,Wireless Mouse,Accessories,West,Online,1,48.66,0,48.66
+T01185,2025-09-04,C0154,Laptop Pro 14,Computers,South,Partner,2,1234.03,0,2468.06
+T01186,2025-03-31,C0288,Mechanical Keyboard,Accessories,West,Online,1,115.9,0,115.9
+T01187,2025-06-20,C0003,27in Monitor,Monitors,North,Partner,2,366.43,0,732.86
+T01188,2025-07-11,C0381,Noise-Cancel Headset,Audio,East,Retail,1,176.74,0,176.74
+T01189,2025-09-08,C0020,Mechanical Keyboard,Accessories,North,Retail,2,117.7,0.05,223.63
+T01190,2025-10-17,C0385,27in Monitor,Monitors,East,Partner,1,338.75,0,338.75
+T01191,2025-12-30,C0198,Noise-Cancel Headset,Audio,West,Partner,2,169.5,0,339.0
+T01192,2025-05-07,C0362,24in Monitor,Monitors,North,Partner,1,225.19,0.15,191.41
+T01193,2025-12-07,C0076,Smartphone X,Phones,East,Online,1,841.6,0.05,799.52
+T01194,2025-11-05,C0395,Tablet 11,Tablets,North,Partner,4,469.8,0.1,1691.28
+T01195,2025-12-31,C0266,USB-C Dock,Accessories,South,Retail,1,166.65,0.05,158.32
+T01196,2025-03-26,C0338,USB-C Dock,Accessories,West,Partner,1,167.92,0,167.92
+T01197,2025-06-07,C0046,Smartphone Lite,Phones,North,Partner,1,512.63,0.1,461.37
+T01198,2025-10-21,C0384,Wireless Mouse,Accessories,West,Partner,3,47.29,0,141.87
+T01199,2025-06-07,C0036,Laptop Pro 14,Computers,West,Partner,5,1221.31,0.1,5495.89
+T01200,2025-08-02,C0096,Smartphone X,Phones,South,Online,1,767.97,0,767.97
+T01201,2025-09-07,C0109,27in Monitor,Monitors,South,Online,1,351.81,0,351.81
+T01202,2025-01-31,C0210,Smartphone Lite,Phones,West,Partner,1,484.59,0.1,436.13
+T01203,2025-11-16,C0194,Laptop Air 13,Computers,North,Retail,3,974.2,0,2922.6
+T01204,2025-02-02,C0390,Wireless Mouse,Accessories,North,Online,1,48.91,0,48.91
+T01205,2025-02-01,C0022,Mechanical Keyboard,Accessories,North,Online,2,120.18,0,240.36
+T01206,2025-09-25,C0137,Laptop Pro 14,Computers,West,Retail,1,1371.03,0.05,1302.48
+T01207,2025-06-22,C0162,Tablet 11,Tablets,South,Retail,1,522.36,0,522.36
+T01208,2025-12-07,C0170,USB-C Dock,Accessories,North,Online,1,156.25,0,156.25
+T01209,2025-08-22,C0014,Smartphone Lite,Phones,North,Partner,1,524.45,0.1,472.01
+T01210,2025-05-24,C0352,Smartphone Lite,Phones,West,Partner,2,496.12,0,992.24
+T01211,2025-07-31,C0165,Smartphone X,Phones,North,Partner,1,842.87,0.2,674.3
+T01212,2025-07-04,C0120,Laptop Pro 14,Computers,West,Retail,4,1326.74,0.1,4776.26
+T01213,2025-11-10,C0244,Laptop Air 13,Computers,North,Partner,1,1051.92,0.15,894.13
+T01214,2025-07-17,C0293,Mechanical Keyboard,Accessories,North,Online,2,124.28,0.1,223.7
+T01215,2025-09-12,C0240,Laptop Air 13,Computers,South,Retail,1,1004.84,0.05,954.6
+T01216,2025-03-01,C0386,Noise-Cancel Headset,Audio,North,Online,2,172.81,0,345.62
+T01217,2025-08-11,C0197,Smartphone Lite,Phones,East,Online,1,488.61,0.15,415.32
+T01218,2025-05-12,C0070,Smartphone X,Phones,West,Online,1,762.86,0.15,648.43
+T01219,2025-12-21,C0308,Wireless Mouse,Accessories,North,Partner,3,50.57,0.15,128.95
+T01220,2025-06-25,C0335,USB-C Dock,Accessories,West,Online,3,163.29,0.1,440.88
+T01221,2025-04-25,C0380,Mechanical Keyboard,Accessories,South,Partner,1,113.13,0,113.13
+T01222,2025-03-01,C0296,Tablet 11,Tablets,North,Retail,1,526.19,0.1,473.57
+T01223,2025-02-01,C0164,Tablet 11,Tablets,East,Partner,2,527.73,0.1,949.91
+T01224,2025-03-06,C0005,Webcam HD,Accessories,West,Retail,2,84.8,0.05,161.12
+T01225,2025-03-16,C0308,Mechanical Keyboard,Accessories,East,Online,3,118.37,0.05,337.35
+T01226,2025-12-07,C0353,Smartphone Lite,Phones,North,Retail,1,499.14,0,499.14
+T01227,2025-12-28,C0361,Tablet 11,Tablets,West,Online,1,498.7,0.1,448.83
+T01228,2025-06-20,C0116,27in Monitor,Monitors,North,Online,3,358.74,0,1076.22
+T01229,2025-09-07,C0082,Smartphone Lite,Phones,North,Partner,1,508.54,0.2,406.83
+T01230,2025-07-20,C0201,Wireless Mouse,Accessories,West,Online,1,48.11,0.05,45.7
+T01231,2025-09-28,C0281,Smartphone Lite,Phones,West,Online,1,480.74,0.05,456.7
+T01232,2025-03-09,C0364,Wireless Mouse,Accessories,East,Retail,2,50.79,0.05,96.5
+T01233,2025-12-02,C0075,27in Monitor,Monitors,South,Online,2,348.26,0,696.52
+T01234,2025-04-11,C0053,Smartphone Lite,Phones,South,Retail,2,520.33,0,1040.66
+T01235,2025-08-07,C0243,Smartphone X,Phones,South,Online,3,760.27,0.15,1938.69
+T01236,2025-03-02,C0322,Webcam HD,Accessories,West,Online,2,94.02,0.05,178.64
+T01237,2025-01-18,C0089,Laptop Air 13,Computers,West,Partner,1,1021.54,0.05,970.46
+T01238,2025-12-10,C0196,Smartphone X,Phones,East,Partner,1,829.51,0.05,788.03
+T01239,2025-12-01,C0251,Noise-Cancel Headset,Audio,South,Online,1,170.04,0,170.04
+T01240,2025-10-28,C0049,Tablet 11,Tablets,South,Retail,5,510.6,0.05,2425.35
+T01241,2025-09-05,C0167,Smartphone X,Phones,North,Partner,2,763.07,0,1526.14
+T01242,2025-10-03,C0275,27in Monitor,Monitors,West,Online,1,344.55,0.1,310.1
+T01243,2025-09-23,C0386,Tablet 11,Tablets,South,Partner,2,508.08,0.1,914.54
+T01244,2025-03-02,C0229,27in Monitor,Monitors,East,Online,3,328.28,0.05,935.6
+T01245,2025-01-21,C0132,27in Monitor,Monitors,North,Online,2,331.74,0.05,630.31
+T01246,2025-03-05,C0337,Webcam HD,Accessories,North,Online,1,85.49,0.15,72.67
+T01247,2025-06-03,C0338,Laptop Pro 14,Computers,West,Online,4,1343.08,0.05,5103.7
+T01248,2025-10-23,C0181,Noise-Cancel Headset,Audio,South,Partner,2,189.44,0.05,359.94
+T01249,2025-02-20,C0154,Smartphone X,Phones,South,Online,3,769.09,0,2307.27
+T01250,2025-11-05,C0319,Webcam HD,Accessories,West,Online,1,85.03,0,85.03
+T01251,2025-10-09,C0234,Mechanical Keyboard,Accessories,North,Retail,1,114.19,0.05,108.48
+T01252,2025-12-13,C0323,USB-C Dock,Accessories,East,Partner,4,153.35,0,613.4
+T01253,2025-12-23,C0262,Smartphone X,Phones,South,Retail,1,814.08,0,814.08
+T01254,2025-03-20,C0310,Wireless Mouse,Accessories,South,Online,5,46.21,0,231.05
+T01255,2025-05-19,C0169,Laptop Air 13,Computers,North,Retail,2,987.82,0.05,1876.86
+T01256,2025-06-20,C0051,Mechanical Keyboard,Accessories,West,Online,1,115.77,0.1,104.19
+T01257,2025-07-13,C0157,Laptop Air 13,Computers,West,Online,2,1002.17,0,2004.34
+T01258,2025-09-28,C0312,Wireless Mouse,Accessories,North,Online,2,49.3,0.1,88.74
+T01259,2025-03-29,C0380,Wireless Mouse,Accessories,West,Retail,4,48.09,0,192.36
+T01260,2025-10-31,C0337,27in Monitor,Monitors,South,Online,1,357.93,0.05,340.03
+T01261,2025-07-13,C0190,Tablet 11,Tablets,South,Partner,2,512.5,0,1025.0
+T01262,2025-11-08,C0240,USB-C Dock,Accessories,East,Retail,2,168.28,0,336.56
+T01263,2025-08-08,C0157,Webcam HD,Accessories,North,Retail,4,92.35,0.15,313.99
+T01264,2025-07-28,C0123,Wireless Mouse,Accessories,North,Online,3,46.51,0.05,132.55
+T01265,2025-10-22,C0006,Laptop Pro 14,Computers,West,Partner,1,1365.96,0,1365.96
+T01266,2025-09-18,C0347,Smartphone Lite,Phones,North,Retail,1,510.09,0.05,484.59
+T01267,2025-01-08,C0218,Tablet 11,Tablets,East,Online,1,469.5,0.1,422.55
+T01268,2025-12-05,C0087,Webcam HD,Accessories,South,Online,2,88.45,0,176.9
+T01269,2025-02-08,C0217,Wireless Mouse,Accessories,West,Retail,3,51.66,0.05,147.23
+T01270,2025-03-29,C0277,Wireless Mouse,Accessories,North,Retail,4,50.05,0,200.2
+T01271,2025-06-03,C0292,Noise-Cancel Headset,Audio,West,Online,1,184.11,0,184.11
+T01272,2025-06-06,C0317,Smartphone X,Phones,West,Online,1,840.75,0.15,714.64
+T01273,2025-07-02,C0003,Laptop Pro 14,Computers,East,Partner,2,1276.22,0,2552.44
+T01274,2025-04-06,C0044,USB-C Dock,Accessories,South,Retail,1,158.85,0,158.85
+T01275,2025-03-05,C0241,Noise-Cancel Headset,Audio,West,Retail,1,173.63,0.1,156.27
+T01276,2025-06-03,C0056,Wireless Mouse,Accessories,West,Partner,1,50.83,0,50.83
+T01277,2025-08-13,C0364,27in Monitor,Monitors,South,Online,1,328.3,0.1,295.47
+T01278,2025-04-08,C0017,Mechanical Keyboard,Accessories,South,Partner,1,122.48,0,122.48
+T01279,2025-04-12,C0251,Noise-Cancel Headset,Audio,West,Partner,4,170.81,0.2,546.59
+T01280,2025-03-07,C0372,Wireless Mouse,Accessories,West,Online,2,48.41,0.1,87.14
+T01281,2025-02-26,C0007,Laptop Air 13,Computers,South,Online,2,980.31,0,1960.62
+T01282,2025-12-14,C0246,Wireless Mouse,Accessories,East,Retail,1,46.11,0.05,43.8
+T01283,2025-09-06,C0262,Laptop Air 13,Computers,South,Online,2,957.34,0,1914.68
+T01284,2025-05-24,C0220,Laptop Air 13,Computers,South,Retail,3,968.71,0.2,2324.9
+T01285,2025-12-28,C0303,Laptop Air 13,Computers,South,Online,2,960.78,0.05,1825.48
+T01286,2025-03-03,C0075,27in Monitor,Monitors,West,Online,1,336.11,0,336.11
+T01287,2025-11-12,C0157,24in Monitor,Monitors,South,Online,1,226.45,0,226.45
+T01288,2025-06-22,C0156,USB-C Dock,Accessories,North,Retail,1,161.75,0.05,153.66
+T01289,2025-07-06,C0025,Mechanical Keyboard,Accessories,South,Online,4,115.39,0.1,415.4
+T01290,2025-01-01,C0144,Laptop Pro 14,Computers,North,Retail,2,1265.54,0,2531.08
+T01291,2025-04-05,C0050,Mechanical Keyboard,Accessories,North,Partner,4,116.21,0,464.84
+T01292,2025-10-10,C0399,27in Monitor,Monitors,East,Online,1,343.19,0.1,308.87
+T01293,2025-11-29,C0067,Mechanical Keyboard,Accessories,North,Online,1,124.53,0,124.53
+T01294,2025-10-28,C0051,Smartphone X,Phones,North,Partner,3,793.8,0,2381.4
+T01295,2025-11-13,C0274,Wireless Mouse,Accessories,South,Online,1,50.53,0.05,48.0
+T01296,2025-03-07,C0389,24in Monitor,Monitors,East,Retail,1,239.76,0.1,215.78
+T01297,2025-08-18,C0215,Smartphone X,Phones,North,Online,2,757.55,0.15,1287.83
+T01298,2025-11-03,C0290,Mechanical Keyboard,Accessories,North,Partner,2,112.51,0,225.02
+T01299,2025-04-08,C0263,Smartphone Lite,Phones,North,Online,3,500.94,0.05,1427.68
+T01300,2025-08-13,C0140,Webcam HD,Accessories,South,Online,1,87.94,0.1,79.15
+T01301,2025-01-02,C0263,27in Monitor,Monitors,West,Partner,2,328.43,0.05,624.02
+T01302,2025-12-29,C0363,Smartphone Lite,Phones,East,Partner,2,482.25,0,964.5
+T01303,2025-03-02,C0328,27in Monitor,Monitors,South,Retail,1,340.28,0.05,323.27
+T01304,2025-03-10,C0108,Mechanical Keyboard,Accessories,North,Online,3,125.85,0,377.55
+T01305,2025-11-29,C0362,Wireless Mouse,Accessories,East,Partner,2,47.97,0.2,76.75
+T01306,2025-03-10,C0321,USB-C Dock,Accessories,North,Retail,3,168.26,0,504.78
+T01307,2025-04-23,C0276,Smartphone Lite,Phones,North,Partner,4,527.24,0,2108.96
+T01308,2025-12-19,C0310,USB-C Dock,Accessories,South,Retail,4,161.41,0,645.64
+T01309,2025-04-23,C0386,Wireless Mouse,Accessories,West,Online,1,50.81,0.05,48.27
+T01310,2025-08-17,C0246,24in Monitor,Monitors,North,Retail,2,219.34,0,438.68
+T01311,2025-04-03,C0252,Noise-Cancel Headset,Audio,South,Partner,1,172.32,0.1,155.09
+T01312,2025-05-25,C0352,Laptop Pro 14,Computers,South,Online,1,1348.49,0.15,1146.22
+T01313,2025-03-15,C0207,Laptop Air 13,Computers,North,Partner,1,1016.4,0.05,965.58
+T01314,2025-09-27,C0194,27in Monitor,Monitors,West,Online,2,353.33,0.1,635.99
+T01315,2025-02-26,C0128,Laptop Pro 14,Computers,North,Retail,2,1227.88,0.05,2332.97
+T01316,2025-03-15,C0055,Smartphone X,Phones,East,Partner,2,751.96,0.1,1353.53
+T01317,2025-02-13,C0084,24in Monitor,Monitors,East,Retail,1,239.78,0.1,215.8
+T01318,2025-09-03,C0279,27in Monitor,Monitors,North,Online,1,339.26,0.05,322.3
+T01319,2025-01-23,C0213,Laptop Air 13,Computers,South,Online,2,1045.33,0,2090.66
+T01320,2025-04-25,C0147,Laptop Pro 14,Computers,South,Partner,1,1276.13,0,1276.13
+T01321,2025-07-16,C0087,Smartphone X,Phones,North,Online,3,761.84,0.1,2056.97
+T01322,2025-02-22,C0044,Mechanical Keyboard,Accessories,North,Partner,1,113.55,0.05,107.87
+T01323,2025-03-19,C0218,27in Monitor,Monitors,South,Partner,1,335.66,0,335.66
+T01324,2025-12-18,C0139,Mechanical Keyboard,Accessories,West,Partner,2,124.36,0,248.72
+T01325,2025-07-08,C0002,Mechanical Keyboard,Accessories,South,Partner,3,112.95,0.1,304.97
+T01326,2025-03-17,C0245,Wireless Mouse,Accessories,North,Online,1,50.75,0,50.75
+T01327,2025-10-23,C0066,USB-C Dock,Accessories,South,Retail,4,151.19,0,604.76
+T01328,2025-06-30,C0309,Wireless Mouse,Accessories,East,Online,1,51.78,0.05,49.19
+T01329,2025-12-01,C0253,24in Monitor,Monitors,South,Retail,1,230.06,0.05,218.56
+T01330,2025-02-12,C0384,Tablet 11,Tablets,South,Partner,2,515.56,0.05,979.56
+T01331,2025-02-14,C0186,24in Monitor,Monitors,West,Online,1,238.63,0,238.63
+T01332,2025-02-26,C0399,Laptop Pro 14,Computers,South,Retail,3,1353.45,0,4060.35
+T01333,2025-08-24,C0216,27in Monitor,Monitors,South,Online,3,367.06,0.05,1046.12
+T01334,2025-04-25,C0074,Laptop Pro 14,Computers,West,Partner,2,1329.52,0,2659.04
+T01335,2025-01-14,C0340,Smartphone Lite,Phones,North,Retail,4,511.06,0,2044.24
+T01336,2025-11-01,C0040,27in Monitor,Monitors,North,Partner,1,331.37,0,331.37
+T01337,2025-08-02,C0271,27in Monitor,Monitors,East,Retail,2,333.93,0.05,634.47
+T01338,2025-07-30,C0147,Smartphone Lite,Phones,North,Online,1,510.69,0.1,459.62
+T01339,2025-01-31,C0006,Smartphone X,Phones,West,Retail,1,799.32,0.1,719.39
+T01340,2025-12-15,C0257,Noise-Cancel Headset,Audio,East,Partner,2,188.0,0.1,338.4
+T01341,2025-04-27,C0194,USB-C Dock,Accessories,South,Partner,4,151.21,0,604.84
+T01342,2025-04-19,C0382,USB-C Dock,Accessories,North,Partner,2,152.96,0,305.92
+T01343,2025-08-28,C0085,Noise-Cancel Headset,Audio,North,Retail,1,186.03,0.05,176.73
+T01344,2025-11-28,C0309,USB-C Dock,Accessories,East,Online,1,150.94,0,150.94
+T01345,2025-05-03,C0006,Mechanical Keyboard,Accessories,East,Online,1,114.89,0,114.89
+T01346,2025-10-10,C0292,24in Monitor,Monitors,North,Partner,2,222.66,0,445.32
+T01347,2025-09-05,C0183,Laptop Pro 14,Computers,East,Retail,1,1269.17,0,1269.17
+T01348,2025-09-14,C0067,24in Monitor,Monitors,North,Retail,1,225.04,0,225.04
+T01349,2025-07-28,C0013,Smartphone Lite,Phones,West,Retail,1,515.47,0.05,489.7
+T01350,2025-10-28,C0321,Laptop Pro 14,Computers,North,Partner,1,1293.25,0,1293.25
+T01351,2025-04-29,C0083,24in Monitor,Monitors,East,Retail,3,236.39,0.05,673.71
+T01352,2025-03-09,C0021,Wireless Mouse,Accessories,West,Online,1,51.59,0.05,49.01
+T01353,2025-04-17,C0255,Tablet 11,Tablets,North,Online,2,503.01,0.15,855.12
+T01354,2025-03-15,C0045,Mechanical Keyboard,Accessories,West,Online,2,123.02,0.15,209.13
+T01355,2025-08-21,C0296,Wireless Mouse,Accessories,East,Retail,1,46.46,0,46.46
+T01356,2025-02-15,C0243,Laptop Air 13,Computers,East,Retail,1,969.98,0.1,872.98
+T01357,2025-11-29,C0187,27in Monitor,Monitors,East,Retail,4,348.51,0.2,1115.23
+T01358,2025-07-29,C0320,Tablet 11,Tablets,East,Retail,3,491.02,0,1473.06
+T01359,2025-02-12,C0350,Smartphone X,Phones,North,Partner,1,835.19,0.05,793.43
+T01360,2025-11-26,C0005,Laptop Pro 14,Computers,South,Online,2,1349.07,0,2698.14
+T01361,2025-05-29,C0199,USB-C Dock,Accessories,West,Partner,1,150.85,0,150.85
+T01362,2025-02-17,C0239,Wireless Mouse,Accessories,North,Online,1,51.35,0.05,48.78
+T01363,2025-04-03,C0222,Smartphone Lite,Phones,South,Retail,1,492.83,0.15,418.91
+T01364,2025-06-18,C0360,Laptop Air 13,Computers,West,Online,1,997.36,0.2,797.89
+T01365,2025-05-23,C0328,Noise-Cancel Headset,Audio,South,Retail,1,178.35,0,178.35
+T01366,2025-10-18,C0186,Laptop Pro 14,Computers,West,Retail,5,1230.79,0.1,5538.56
+T01367,2025-04-20,C0217,Laptop Pro 14,Computers,East,Retail,1,1339.31,0,1339.31
+T01368,2025-11-22,C0153,27in Monitor,Monitors,West,Retail,1,345.02,0,345.02
+T01369,2025-09-26,C0048,24in Monitor,Monitors,West,Retail,2,238.08,0,476.16
+T01370,2025-06-02,C0275,27in Monitor,Monitors,South,Partner,1,348.23,0.15,296.0
+T01371,2025-08-12,C0288,Wireless Mouse,Accessories,South,Online,3,50.9,0.05,145.06
+T01372,2025-12-08,C0376,Tablet 11,Tablets,East,Online,2,528.12,0,1056.24
+T01373,2025-03-19,C0346,Noise-Cancel Headset,Audio,West,Retail,4,175.06,0.05,665.23
+T01374,2025-09-24,C0065,Smartphone Lite,Phones,West,Partner,1,518.91,0.05,492.96
+T01375,2025-10-24,C0357,Laptop Air 13,Computers,South,Partner,1,961.56,0.1,865.4
+T01376,2025-07-13,C0296,24in Monitor,Monitors,North,Retail,1,241.96,0.15,205.67
+T01377,2025-07-06,C0064,Laptop Pro 14,Computers,West,Partner,1,1348.73,0,1348.73
+T01378,2025-08-22,C0268,USB-C Dock,Accessories,East,Online,1,159.81,0,159.81
+T01379,2025-04-01,C0278,Noise-Cancel Headset,Audio,West,Retail,1,181.04,0,181.04
+T01380,2025-05-26,C0318,Smartphone X,Phones,North,Online,2,778.22,0,1556.44
+T01381,2025-02-23,C0255,Laptop Air 13,Computers,North,Partner,2,988.36,0.05,1877.88
+T01382,2025-08-16,C0216,Webcam HD,Accessories,South,Online,2,86.76,0,173.52
+T01383,2025-08-21,C0064,Webcam HD,Accessories,East,Retail,1,88.68,0,88.68
+T01384,2025-07-31,C0192,Smartphone X,Phones,South,Partner,2,751.79,0.1,1353.22
+T01385,2025-05-26,C0213,Mechanical Keyboard,Accessories,South,Online,3,123.83,0,371.49
+T01386,2025-08-01,C0266,Laptop Pro 14,Computers,East,Retail,1,1279.42,0,1279.42
+T01387,2025-03-29,C0099,Tablet 11,Tablets,West,Online,5,527.35,0,2636.75
+T01388,2025-10-23,C0089,USB-C Dock,Accessories,West,Retail,1,168.11,0.05,159.7
+T01389,2025-09-22,C0259,27in Monitor,Monitors,North,Partner,1,361.61,0,361.61
+T01390,2025-10-23,C0284,USB-C Dock,Accessories,South,Retail,3,154.43,0.05,440.13
+T01391,2025-04-15,C0304,Laptop Air 13,Computers,South,Online,1,1014.45,0,1014.45
+T01392,2025-11-13,C0013,Smartphone Lite,Phones,South,Retail,2,503.3,0.2,805.28
+T01393,2025-11-21,C0114,Smartphone X,Phones,East,Online,2,813.62,0,1627.24
+T01394,2025-10-02,C0134,24in Monitor,Monitors,North,Retail,2,225.65,0.1,406.17
+T01395,2025-02-12,C0053,27in Monitor,Monitors,North,Retail,2,352.32,0.05,669.41
+T01396,2025-11-02,C0048,Laptop Air 13,Computers,North,Retail,1,1046.31,0,1046.31
+T01397,2025-07-05,C0038,24in Monitor,Monitors,West,Partner,1,215.86,0.05,205.07
+T01398,2025-02-09,C0231,24in Monitor,Monitors,South,Online,2,223.88,0,447.76
+T01399,2025-06-02,C0017,Laptop Pro 14,Computers,North,Retail,3,1319.45,0.05,3760.43
+T01400,2025-06-27,C0268,Noise-Cancel Headset,Audio,East,Online,5,168.37,0.05,799.76
+T01401,2025-04-09,C0079,Tablet 11,Tablets,South,Retail,1,499.7,0,499.7
+T01402,2025-02-28,C0355,24in Monitor,Monitors,South,Retail,1,217.55,0,217.55
+T01403,2025-05-21,C0334,Noise-Cancel Headset,Audio,East,Retail,1,183.47,0,183.47
+T01404,2025-09-11,C0089,USB-C Dock,Accessories,South,Partner,1,153.14,0,153.14
+T01405,2025-05-24,C0085,USB-C Dock,Accessories,South,Partner,1,160.67,0.1,144.6
+T01406,2025-09-07,C0164,USB-C Dock,Accessories,North,Partner,3,163.71,0,491.13
+T01407,2025-07-16,C0033,USB-C Dock,Accessories,West,Online,1,166.59,0,166.59
+T01408,2025-01-18,C0331,Webcam HD,Accessories,East,Retail,1,90.11,0,90.11
+T01409,2025-01-16,C0184,Laptop Air 13,Computers,South,Online,1,1033.87,0,1033.87
+T01410,2025-04-21,C0005,Smartphone X,Phones,East,Partner,1,781.21,0,781.21
+T01411,2025-01-06,C0120,Smartphone Lite,Phones,North,Retail,1,516.68,0.05,490.85
+T01412,2025-05-26,C0367,Tablet 11,Tablets,North,Partner,1,502.65,0,502.65
+T01413,2025-11-27,C0102,USB-C Dock,Accessories,South,Online,2,164.98,0,329.96
+T01414,2025-09-10,C0232,Noise-Cancel Headset,Audio,South,Partner,1,170.82,0,170.82
+T01415,2025-06-17,C0330,Tablet 11,Tablets,North,Retail,1,486.13,0.05,461.82
+T01416,2025-05-26,C0271,27in Monitor,Monitors,North,Retail,3,365.58,0,1096.74
+T01417,2025-11-27,C0371,Laptop Pro 14,Computers,East,Retail,1,1346.16,0,1346.16
+T01418,2025-06-12,C0314,Wireless Mouse,Accessories,North,Retail,1,47.9,0.05,45.5
+T01419,2025-06-02,C0063,Smartphone Lite,Phones,East,Partner,5,507.45,0.05,2410.39
+T01420,2025-02-22,C0166,Laptop Pro 14,Computers,West,Online,1,1242.69,0.1,1118.42
+T01421,2025-03-29,C0276,Laptop Air 13,Computers,North,Partner,1,983.28,0.15,835.79
+T01422,2025-01-27,C0156,Mechanical Keyboard,Accessories,North,Retail,3,112.55,0,337.65
+T01423,2025-06-18,C0088,Smartphone Lite,Phones,South,Partner,2,485.22,0.1,873.4
+T01424,2025-08-24,C0212,Laptop Air 13,Computers,West,Partner,1,1029.33,0.1,926.4
+T01425,2025-03-04,C0144,Webcam HD,Accessories,East,Partner,2,90.72,0.05,172.37
+T01426,2025-09-05,C0181,24in Monitor,Monitors,South,Partner,1,234.81,0.1,211.33
+T01427,2025-11-28,C0254,Smartphone Lite,Phones,North,Online,3,473.56,0.05,1349.65
+T01428,2025-01-07,C0054,Smartphone X,Phones,East,Online,1,769.08,0.1,692.17
+T01429,2025-10-30,C0363,Webcam HD,Accessories,West,Partner,1,93.75,0,93.75
+T01430,2025-03-20,C0198,Webcam HD,Accessories,West,Partner,1,93.45,0,93.45
+T01431,2025-09-20,C0085,24in Monitor,Monitors,East,Partner,2,222.9,0,445.8
+T01432,2025-11-28,C0124,Laptop Air 13,Computers,North,Retail,1,1028.37,0.1,925.53
+T01433,2025-04-06,C0136,Mechanical Keyboard,Accessories,North,Partner,1,118.32,0.05,112.4
+T01434,2025-02-13,C0261,Wireless Mouse,Accessories,East,Online,1,49.01,0,49.01
+T01435,2025-08-14,C0217,Mechanical Keyboard,Accessories,South,Retail,1,117.32,0,117.32
+T01436,2025-04-07,C0266,USB-C Dock,Accessories,West,Online,1,161.05,0,161.05
+T01437,2025-12-15,C0028,Laptop Pro 14,Computers,North,Partner,2,1255.29,0.15,2133.99
+T01438,2025-05-17,C0318,24in Monitor,Monitors,West,Retail,1,221.48,0,221.48
+T01439,2025-07-21,C0254,Laptop Air 13,Computers,South,Online,1,1021.98,0.1,919.78
+T01440,2025-04-15,C0002,Wireless Mouse,Accessories,North,Online,2,47.75,0.1,85.95
+T01441,2025-09-15,C0353,Smartphone Lite,Phones,South,Online,2,520.11,0.1,936.2
+T01442,2025-06-11,C0073,Smartphone X,Phones,North,Partner,1,837.34,0,837.34
+T01443,2025-08-31,C0040,USB-C Dock,Accessories,South,Partner,1,154.49,0,154.49
+T01444,2025-01-05,C0127,Tablet 11,Tablets,West,Online,1,469.12,0.05,445.66
+T01445,2025-01-24,C0269,Laptop Pro 14,Computers,South,Online,2,1351.28,0.2,2162.05
+T01446,2025-02-18,C0377,Laptop Air 13,Computers,East,Partner,1,993.32,0.1,893.99
+T01447,2025-05-12,C0181,Smartphone X,Phones,East,Partner,1,752.36,0,752.36
+T01448,2025-06-20,C0306,Webcam HD,Accessories,West,Online,2,93.3,0.1,167.94
+T01449,2025-05-19,C0211,Smartphone X,Phones,South,Partner,1,765.24,0.05,726.98
+T01450,2025-03-14,C0221,Wireless Mouse,Accessories,East,Online,1,50.42,0,50.42
+T01451,2025-02-15,C0141,24in Monitor,Monitors,West,Partner,4,218.23,0,872.92
+T01452,2025-03-31,C0302,Mechanical Keyboard,Accessories,West,Retail,3,116.59,0,349.77
+T01453,2025-06-08,C0314,24in Monitor,Monitors,North,Retail,1,224.69,0.05,213.46
+T01454,2025-08-21,C0005,Tablet 11,Tablets,West,Partner,4,486.33,0.1,1750.79
+T01455,2025-03-17,C0286,Noise-Cancel Headset,Audio,South,Retail,2,174.48,0.05,331.51
+T01456,2025-09-07,C0112,Mechanical Keyboard,Accessories,East,Partner,1,118.34,0,118.34
+T01457,2025-03-05,C0001,Laptop Pro 14,Computers,North,Retail,1,1275.97,0,1275.97
+T01458,2025-03-12,C0394,Wireless Mouse,Accessories,South,Online,3,49.01,0.1,132.33
+T01459,2025-05-19,C0042,27in Monitor,Monitors,East,Online,5,352.57,0,1762.85
+T01460,2025-01-17,C0198,Noise-Cancel Headset,Audio,West,Retail,4,182.83,0,731.32
+T01461,2025-02-20,C0224,Mechanical Keyboard,Accessories,East,Partner,4,114.33,0.05,434.45
+T01462,2025-03-13,C0103,Smartphone X,Phones,East,Retail,2,790.98,0,1581.96
+T01463,2025-02-13,C0193,Mechanical Keyboard,Accessories,West,Online,2,119.65,0.05,227.34
+T01464,2025-03-12,C0365,Webcam HD,Accessories,East,Retail,1,93.64,0,93.64
+T01465,2025-07-01,C0287,USB-C Dock,Accessories,North,Retail,1,158.26,0.15,134.52
+T01466,2025-02-15,C0263,27in Monitor,Monitors,East,Online,2,338.22,0,676.44
+T01467,2025-11-14,C0202,Webcam HD,Accessories,South,Retail,3,84.23,0.1,227.42
+T01468,2025-12-10,C0028,Laptop Pro 14,Computers,North,Online,1,1301.81,0.1,1171.63
+T01469,2025-05-19,C0290,Smartphone X,Phones,West,Partner,1,829.87,0.05,788.38
+T01470,2025-06-19,C0368,Laptop Pro 14,Computers,North,Partner,1,1300.69,0.05,1235.66
+T01471,2025-04-15,C0115,Webcam HD,Accessories,South,Retail,1,88.95,0.1,80.06
+T01472,2025-11-18,C0320,Mechanical Keyboard,Accessories,South,Online,2,123.36,0.15,209.71
+T01473,2025-02-04,C0127,Laptop Pro 14,Computers,South,Online,1,1302.09,0.1,1171.88
+T01474,2025-08-31,C0063,Laptop Pro 14,Computers,East,Retail,3,1229.74,0,3689.22
+T01475,2025-09-05,C0314,27in Monitor,Monitors,West,Partner,3,350.96,0.1,947.59
+T01476,2025-11-12,C0382,Laptop Air 13,Computers,South,Online,1,961.21,0.05,913.15
+T01477,2025-09-19,C0149,Smartphone Lite,Phones,North,Partner,2,497.83,0,995.66
+T01478,2025-09-10,C0055,Wireless Mouse,Accessories,West,Retail,2,50.16,0,100.32
+T01479,2025-08-06,C0006,27in Monitor,Monitors,East,Online,1,351.69,0.05,334.11
+T01480,2025-11-27,C0182,Smartphone X,Phones,South,Retail,3,755.15,0.05,2152.18
+T01481,2025-08-23,C0258,Mechanical Keyboard,Accessories,South,Retail,1,119.01,0,119.01
+T01482,2025-12-28,C0181,Webcam HD,Accessories,East,Retail,1,90.67,0,90.67
+T01483,2025-03-13,C0035,Mechanical Keyboard,Accessories,West,Retail,2,125.05,0.05,237.59
+T01484,2025-08-30,C0398,Tablet 11,Tablets,East,Online,2,524.59,0.05,996.72
+T01485,2025-12-24,C0207,Wireless Mouse,Accessories,North,Online,2,49.5,0.05,94.05
+T01486,2025-01-16,C0348,Smartphone Lite,Phones,West,Retail,1,475.42,0,475.42
+T01487,2025-04-29,C0373,Smartphone Lite,Phones,West,Retail,2,521.8,0,1043.6
+T01488,2025-02-02,C0038,Laptop Pro 14,Computers,West,Retail,2,1353.06,0,2706.12
+T01489,2025-11-07,C0358,Smartphone X,Phones,West,Retail,3,781.85,0.15,1993.72
+T01490,2025-03-10,C0225,Smartphone X,Phones,East,Online,2,775.27,0,1550.54
+T01491,2025-04-14,C0099,Smartphone Lite,Phones,North,Partner,1,517.48,0.1,465.73
+T01492,2025-01-13,C0072,Smartphone X,Phones,North,Retail,4,754.25,0,3017.0
+T01493,2025-07-28,C0374,Tablet 11,Tablets,West,Online,2,480.16,0,960.32
+T01494,2025-04-17,C0287,Tablet 11,Tablets,South,Online,3,490.41,0.05,1397.67
+T01495,2025-08-13,C0066,USB-C Dock,Accessories,East,Online,2,160.32,0.1,288.58
+T01496,2025-03-02,C0115,Noise-Cancel Headset,Audio,East,Retail,1,175.37,0.05,166.6
+T01497,2025-07-19,C0148,Smartphone Lite,Phones,North,Partner,1,478.51,0.1,430.66
+T01498,2025-10-22,C0205,24in Monitor,Monitors,North,Partner,3,229.0,0.15,583.95
+T01499,2025-12-24,C0335,Laptop Air 13,Computers,North,Online,2,1057.13,0.15,1797.12
+T01500,2025-06-23,C0072,USB-C Dock,Accessories,South,Partner,1,164.05,0,164.05
